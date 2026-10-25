@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: pos_raw
+    database: "{{ env_var('GCP_PROJECT_ID', 'dhanush-week6-2026') }}"
+    schema: retailco_raw
+    tables:
+      - name: pos_transactions_landing
+        description: "Raw landing table loaded from Dataproc Snappy Parquet batch output."
+        columns:
+          - name: transaction_id
+            description: "Natural key from checkout terminal."
+          - name: store_id
+            description: "Store identifier."
+          - name: transaction_date
+            description: "Raw date string."
+          - name: total_amount_inr
+            description: "Reported total transaction amount."

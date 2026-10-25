@@ -1,0 +1,6 @@
+transaction_id,store_id,store_name,transaction_date,customer_id,product_code,product_name,category,quantity,unit_price_inr,total_amount_inr,discount_pct,payment_method,cashier_id,region,city
+TXN_BAD_001,ST01,FreshMart Mumbai,32-13-2024,CUST001,PROD-001,Test Item,Grocery,1,100.0,100.0,0.0,UPI,CASH01,West,Mumbai
+TXN_BAD_002,ST01,FreshMart Mumbai,15-01-2024,,PROD-002,Test Item 2,Grocery,1,50.0,50.0,0.0,Cash,CASH01,West,Mumbai
+TXN_BAD_003,ST01,FreshMart Mumbai,15-01-2024,CUST003,PROD-003,Test Item 3,Grocery,2,100.0,250.0,0.0,UPI,CASH01,West,Mumbai
+TXN_BAD_004,ST01,FreshMart Mumbai,15-01-2024,CUST004,PROD-004,Test Item 4,Grocery,1,100.0,100.0,105.0,Cash,CASH01,West,Mumbai
+TXN_GOOD_001,ST01,FreshMart Mumbai,15-01-2024,CUST005,PROD-005,Good Item,Grocery,1,100.0,100.0,0.0,UPI,CASH01,West,Mumbai

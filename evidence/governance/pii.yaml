@@ -1,0 +1,13 @@
+# PII Data Hiding Governance Rules
+# Defines which fields in the data stream contain PII and the masking strategy.
+
+rules:
+  - field: "customer_email"
+    action: "hash"
+    algorithm: "SHA-256"
+  - field: "customer_id"
+    action: "hash"
+    algorithm: "SHA-256"
+  - field: "credit_card"
+    action: "mask"
+    preserve_last: 4

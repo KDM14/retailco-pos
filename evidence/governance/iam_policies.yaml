@@ -1,0 +1,18 @@
+# IAM Policies for Streaming Architecture
+# Defines required roles for the Dataflow pipeline Service Account.
+
+service_account:
+  id: "retailco-dataflow-sa"
+  roles:
+    - role: "roles/pubsub.subscriber"
+      description: "Allows the pipeline to pull messages from the Pub/Sub subscription."
+    - role: "roles/pubsub.viewer"
+      description: "Allows viewing Pub/Sub topic and subscription metrics."
+    - role: "roles/bigquery.dataEditor"
+      description: "Allows the pipeline to insert rows into the BigQuery sink table."
+    - role: "roles/bigquery.jobUser"
+      description: "Allows the pipeline to execute load jobs into BigQuery."
+    - role: "roles/dataflow.worker"
+      description: "Required for the Compute Engine instances to run Dataflow tasks."
+    - role: "roles/storage.objectAdmin"
+      description: "Allows Dataflow to use Cloud Storage for staging temporary files."

@@ -1,0 +1,1001 @@
+transaction_id,store_id,store_name,transaction_date,customer_id,product_code,product_name,quantity,unit_price_inr,total_amount_inr,discount_pct,payment_method,cashier_id,region,city,category
+TXN_202401150001,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5358,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,4796.8,20.0,Net Banking,CASH_34,South,Bengaluru,Apparel
+TXN_202401150002,STORE_003,Connaught Place,2024-01-16,CUST_3492,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2036.6,15.0,Debit Card,CASH_23,North,Delhi,Apparel
+TXN_202401150003,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5272,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,3596.0,0.0,Cash,CASH_30,South,Bengaluru,Electronics
+TXN_202401150004,STORE_002,Bandra West Flagship,2024-01-15,CUST_2853,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1800.0,0.0,UPI,CASH_42,West,Mumbai,Grocery
+TXN_202401150005,STORE_002,Bandra West Flagship,2024-01-17,CUST_6484,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1438.4,20.0,UPI,CASH_16,West,Mumbai,Electronics
+TXN_202401150006,STORE_005,Anna Nagar Central,2024-01-18,CUST_8450,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1620.0,10.0,Debit Card,CASH_35,South,Chennai,Grocery
+TXN_202401150007,STORE_002,Bandra West Flagship,2024-01-15,CUST_2055,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,379.95,15.0,UPI,CASH_21,West,Mumbai,Home Goods
+TXN_202401150008,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5583,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1530.0,15.0,Debit Card,CASH_49,South,Bengaluru,Grocery
+TXN_202401150009,STORE_003,Connaught Place,2024-01-18,CUST_7143,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,684.0,5.0,Debit Card,CASH_37,North,Delhi,Beverages
+TXN_202401150010,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_3387,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1527.45,15.0,Debit Card,CASH_19,South,Bengaluru,Apparel
+TXN_202401150011,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5234,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1356.6,15.0,Net Banking,CASH_25,South,Bengaluru,Electronics
+TXN_202401150012,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8323,SKU_BEV_002,Green Tea Box 50s,1,190.0,180.5,5.0,UPI,CASH_26,South,Bengaluru,Beverages
+TXN_202401150013,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9525,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,432.0,20.0,UPI,CASH_12,South,Bengaluru,Grocery
+TXN_202401150014,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5608,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,612.0,15.0,Debit Card,CASH_33,South,Bengaluru,Grocery
+TXN_202401150015,STORE_002,Bandra West Flagship,2024-01-18,CUST_6255,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,456.0,5.0,UPI,CASH_19,West,Mumbai,Beverages
+TXN_202401150016,STORE_003,Connaught Place,2024-01-18,CUST_3330,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,5696.2,5.0,UPI,CASH_49,North,Delhi,Apparel
+TXN_202401150017,STORE_001,Indiranagar Metro,2024-01-16,CUST_3197,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,432.0,20.0,Credit Card,CASH_28,South,Bengaluru,Grocery
+TXN_202401150018,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8330,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1080.0,10.0,Cash,CASH_46,South,Bengaluru,Beverages
+TXN_202401150019,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_1572,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,296.65,15.0,Cash,CASH_32,South,Bengaluru,Home Goods
+TXN_202401150020,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6876,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,633.25,15.0,UPI,CASH_35,South,Bengaluru,Home Goods
+TXN_202401150021,STORE_001,Indiranagar Metro,2024-01-17,CUST_7827,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,764.15,15.0,UPI,CASH_40,South,Bengaluru,Electronics
+TXN_202401150022,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2939,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,628.2,10.0,UPI,CASH_48,South,Bengaluru,Home Goods
+TXN_202401150023,STORE_004,Hitec City Retail,2024-01-18,CUST_9999,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1499.0,0.0,Debit Card,CASH_12,South,Hyderabad,Apparel
+TXN_202401150024,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1999,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,253.3,15.0,Credit Card,CASH_50,South,Bengaluru,Home Goods
+TXN_202401150025,STORE_004,Hitec City Retail,2024-01-17,CUST_6609,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,810.0,10.0,UPI,CASH_15,South,Hyderabad,Grocery
+TXN_202401150026,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6812,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1350.0,0.0,Credit Card,CASH_16,South,Bengaluru,Grocery
+TXN_202401150027,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8633,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,349.0,0.0,Debit Card,CASH_29,South,Bengaluru,Home Goods
+TXN_202401150028,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_9830,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,162.0,10.0,UPI,CASH_32,South,Bengaluru,Grocery
+TXN_202401150029,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4838,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,402.3,10.0,UPI,CASH_16,South,Bengaluru,Home Goods
+TXN_202401150030,STORE_002,Bandra West Flagship,2024-01-17,CUST_4641,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1707.15,5.0,Debit Card,CASH_16,West,Mumbai,Apparel
+TXN_202401150031,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8897,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,480.0,0.0,Credit Card,CASH_12,South,Bengaluru,Beverages
+TXN_202401150032,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4375,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,663.1,5.0,Credit Card,CASH_25,South,Bengaluru,Home Goods
+TXN_202401150033,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1113,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1147.5,15.0,Credit Card,CASH_27,South,Bengaluru,Grocery
+TXN_202401150034,STORE_005,Anna Nagar Central,2024-01-16,CUST_4769,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,424.65,5.0,Debit Card,CASH_19,South,Chennai,Home Goods
+TXN_202401150035,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2419,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,576.0,20.0,UPI,CASH_19,South,Bengaluru,Beverages
+TXN_202401150036,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3394,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,3056.6,15.0,Net Banking,CASH_32,South,Bengaluru,Electronics
+TXN_202401150037,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5429,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1695.75,15.0,Debit Card,CASH_39,South,Bengaluru,Electronics
+TXN_202401150038,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6544,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,360.0,0.0,Debit Card,CASH_36,South,Bengaluru,Grocery
+TXN_202401150039,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6203,SKU_BEV_002,Green Tea Box 50s,2,190.0,323.0,15.0,Net Banking,CASH_20,South,Bengaluru,Beverages
+TXN_202401150040,STORE_003,Connaught Place,2024-01-15,CUST_1633,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,180.0,0.0,Net Banking,CASH_25,North,Delhi,Grocery
+TXN_202401150041,STORE_005,Anna Nagar Central,2024-01-15,CUST_8895,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,684.0,5.0,UPI,CASH_46,South,Chennai,Grocery
+TXN_202401150042,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_9502,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2548.3,15.0,Debit Card,CASH_50,South,Bengaluru,Apparel
+TXN_202401150043,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5675,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,228.0,5.0,Credit Card,CASH_37,South,Bengaluru,Beverages
+TXN_202401150044,STORE_004,Hitec City Retail,2024-01-16,CUST_5853,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,3597.6,20.0,UPI,CASH_11,South,Hyderabad,Apparel
+TXN_202401150045,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4739,SKU_BEV_002,Green Tea Box 50s,1,190.0,180.5,5.0,Net Banking,CASH_13,South,Bengaluru,Beverages
+TXN_202401150046,STORE_003,Connaught Place,2024-01-18,CUST_9229,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,5096.6,15.0,UPI,CASH_13,North,Delhi,Apparel
+TXN_202401150047,STORE_005,Anna Nagar Central,2024-01-18,CUST_7955,SKU_BEV_002,Green Tea Box 50s,5,190.0,760.0,20.0,Credit Card,CASH_14,South,Chennai,Beverages
+TXN_202401150048,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5184,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,238.4,20.0,Credit Card,CASH_25,South,Bengaluru,Home Goods
+TXN_202401150049,STORE_004,Hitec City Retail,2024-01-16,CUST_3871,SKU_BEV_002,Green Tea Box 50s,3,190.0,570.0,0.0,Cash,CASH_40,South,Hyderabad,Beverages
+TXN_202401150050,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_2092,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2995.0,0.0,Net Banking,CASH_36,South,Bengaluru,Apparel
+TXN_202401150051,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4703,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,3597.6,20.0,Debit Card,CASH_21,South,Bengaluru,Apparel
+TXN_202401150052,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_8226,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,171.0,5.0,Debit Card,CASH_12,South,Bengaluru,Grocery
+TXN_202401150053,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2950,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1797.0,0.0,Credit Card,CASH_24,South,Bengaluru,Apparel
+TXN_202401150054,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6786,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1215.0,10.0,UPI,CASH_17,South,Bengaluru,Grocery
+TXN_202401150055,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5939,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,855.0,5.0,Cash,CASH_46,South,Bengaluru,Grocery
+TXN_202401150056,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4730,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2845.25,5.0,Net Banking,CASH_20,South,Bengaluru,Apparel
+TXN_202401150057,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3765,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1349.1,10.0,Credit Card,CASH_16,South,Bengaluru,Apparel
+TXN_202401150058,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9127,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,612.0,15.0,Cash,CASH_46,South,Bengaluru,Beverages
+TXN_202401150059,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5525,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,180.0,0.0,Net Banking,CASH_21,South,Bengaluru,Grocery
+TXN_202401150060,STORE_001,Indiranagar Metro,2024-01-15,CUST_2710,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,432.0,20.0,Net Banking,CASH_21,South,Bengaluru,Grocery
+TXN_202401150061,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5005,SKU_GROC_001,Basmati Rice 5kg,1,450.0,360.0,20.0,Net Banking,CASH_44,South,Bengaluru,Grocery
+TXN_202401150062,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5485,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,854.05,5.0,Net Banking,CASH_15,South,Bengaluru,Electronics
+TXN_202401150063,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6814,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,153.0,15.0,UPI,CASH_41,South,Bengaluru,Grocery
+TXN_202401150064,STORE_001,Indiranagar Metro,2024-01-17,CUST_3306,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2545.75,15.0,Cash,CASH_50,South,Bengaluru,Apparel
+TXN_202401150065,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7585,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,3236.4,10.0,Cash,CASH_45,South,Bengaluru,Electronics
+TXN_202401150066,STORE_002,Bandra West Flagship,2024-01-17,CUST_9166,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,480.0,0.0,UPI,CASH_19,West,Mumbai,Beverages
+TXN_202401150067,STORE_003,Connaught Place,2024-01-17,CUST_3920,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2848.1,5.0,Net Banking,CASH_20,North,Delhi,Apparel
+TXN_202401150068,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_2931,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2697.0,0.0,UPI,CASH_36,South,Bengaluru,Electronics
+TXN_202401150069,STORE_004,Hitec City Retail,2024-01-17,CUST_1490,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,684.0,5.0,UPI,CASH_17,South,Hyderabad,Beverages
+TXN_202401150070,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_2933,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,360.0,0.0,Net Banking,CASH_19,South,Bengaluru,Grocery
+TXN_202401150071,STORE_001,Indiranagar Metro,2024-01-18,CUST_5154,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,384.0,20.0,Cash,CASH_23,South,Bengaluru,Beverages
+TXN_202401150072,STORE_001,Indiranagar Metro,2024-01-15,CUST_4198,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,4272.15,5.0,Net Banking,CASH_15,South,Bengaluru,Apparel
+TXN_202401150073,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3946,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1620.0,10.0,Net Banking,CASH_31,South,Bengaluru,Grocery
+TXN_202401150074,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8226,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1528.3,15.0,Cash,CASH_26,South,Bengaluru,Electronics
+TXN_202401150075,STORE_002,Bandra West Flagship,2024-01-18,CUST_1155,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,357.6,20.0,Net Banking,CASH_38,West,Mumbai,Home Goods
+TXN_202401150076,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7044,SKU_BEV_002,Green Tea Box 50s,4,190.0,760.0,0.0,Credit Card,CASH_13,South,Bengaluru,Beverages
+TXN_202401150077,STORE_005,Anna Nagar Central,2024-01-17,CUST_9481,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1798.0,0.0,Net Banking,CASH_36,South,Chennai,Electronics
+TXN_202401150078,STORE_005,Anna Nagar Central,2024-01-16,CUST_8418,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,216.0,10.0,Credit Card,CASH_27,South,Chennai,Beverages
+TXN_202401150079,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5683,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,633.25,15.0,Debit Card,CASH_46,South,Bengaluru,Home Goods
+TXN_202401150080,STORE_004,Hitec City Retail,2024-01-15,CUST_7412,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,663.1,5.0,Debit Card,CASH_15,South,Hyderabad,Home Goods
+TXN_202401150081,STORE_003,Connaught Place,2024-01-16,CUST_7819,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2545.75,15.0,Net Banking,CASH_48,North,Delhi,Apparel
+TXN_202401150082,STORE_003,Connaught Place,2024-01-17,CUST_3546,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2036.6,15.0,Debit Card,CASH_33,North,Delhi,Apparel
+TXN_202401150083,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6793,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2396.0,20.0,Cash,CASH_17,South,Bengaluru,Apparel
+TXN_202401150084,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_2692,SKU_GROC_001,Basmati Rice 5kg,2,450.0,720.0,20.0,Credit Card,CASH_47,South,Bengaluru,Grocery
+TXN_202401150085,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8498,SKU_BEV_002,Green Tea Box 50s,1,190.0,171.0,10.0,UPI,CASH_14,South,Bengaluru,Beverages
+TXN_202401150086,STORE_005,Anna Nagar Central,2024-01-17,CUST_5061,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,900.0,0.0,Cash,CASH_30,South,Chennai,Grocery
+TXN_202401150087,STORE_005,Anna Nagar Central,2024-01-15,CUST_1647,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1350.0,0.0,Cash,CASH_44,South,Chennai,Grocery
+TXN_202401150088,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7592,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,480.0,0.0,UPI,CASH_39,South,Bengaluru,Beverages
+TXN_202401150089,STORE_005,Anna Nagar Central,2024-01-17,CUST_6913,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1708.1,5.0,Net Banking,CASH_15,South,Chennai,Electronics
+TXN_202401150090,STORE_004,Hitec City Retail,2024-01-15,CUST_1443,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,171.0,5.0,Cash,CASH_22,South,Hyderabad,Grocery
+TXN_202401150091,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4089,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,1916.8,20.0,UPI,CASH_17,South,Bengaluru,Apparel
+TXN_202401150092,STORE_005,Anna Nagar Central,2024-01-18,CUST_7734,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1282.5,5.0,Credit Card,CASH_28,South,Chennai,Grocery
+TXN_202401150093,STORE_001,Indiranagar Metro,2024-01-15,CUST_7387,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,4047.3,10.0,UPI,CASH_14,South,Bengaluru,Apparel
+TXN_202401150094,STORE_004,Hitec City Retail,2024-01-15,CUST_3425,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,816.0,15.0,Debit Card,CASH_48,South,Hyderabad,Beverages
+TXN_202401150095,STORE_004,Hitec City Retail,2024-01-17,CUST_7830,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,319.2,20.0,Net Banking,CASH_34,South,Hyderabad,Electronics
+TXN_202401150096,STORE_001,Indiranagar Metro,2024-01-18,CUST_8930,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,480.0,0.0,UPI,CASH_12,South,Bengaluru,Beverages
+TXN_202401150097,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_9097,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2396.0,0.0,Net Banking,CASH_33,South,Bengaluru,Apparel
+TXN_202401150098,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7802,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1116.8,20.0,Debit Card,CASH_47,South,Bengaluru,Home Goods
+TXN_202401150099,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9152,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2292.45,15.0,Net Banking,CASH_34,South,Bengaluru,Electronics
+TXN_202401150100,STORE_003,Connaught Place,2024-01-18,CUST_6059,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2845.25,5.0,Net Banking,CASH_50,North,Delhi,Apparel
+TXN_202401150101,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7119,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1215.0,10.0,Debit Card,CASH_25,South,Bengaluru,Grocery
+TXN_202401150102,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5820,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,424.65,5.0,Net Banking,CASH_21,South,Bengaluru,Home Goods
+TXN_202401150103,STORE_001,Indiranagar Metro,2024-01-16,CUST_4442,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,854.05,5.0,Debit Card,CASH_18,South,Bengaluru,Electronics
+TXN_202401150104,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8592,SKU_BEV_002,Green Tea Box 50s,4,190.0,760.0,0.0,Net Banking,CASH_15,South,Bengaluru,Beverages
+TXN_202401150105,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_2359,SKU_GROC_001,Basmati Rice 5kg,1,450.0,405.0,10.0,UPI,CASH_37,South,Bengaluru,Grocery
+TXN_202401150106,STORE_004,Hitec City Retail,2024-01-15,CUST_5023,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1186.6,15.0,Cash,CASH_28,South,Hyderabad,Home Goods
+TXN_202401150107,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4727,SKU_BEV_002,Green Tea Box 50s,4,190.0,684.0,10.0,UPI,CASH_15,South,Bengaluru,Beverages
+TXN_202401150108,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6823,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,379.95,15.0,Net Banking,CASH_29,South,Bengaluru,Home Goods
+TXN_202401150109,STORE_004,Hitec City Retail,2024-01-18,CUST_1642,SKU_BEV_002,Green Tea Box 50s,3,190.0,541.5,5.0,Cash,CASH_24,South,Hyderabad,Beverages
+TXN_202401150110,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4511,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1797.0,0.0,UPI,CASH_30,South,Bengaluru,Apparel
+TXN_202401150111,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8729,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1797.0,0.0,Net Banking,CASH_50,South,Bengaluru,Apparel
+TXN_202401150112,STORE_005,Anna Nagar Central,2024-01-16,CUST_1941,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,648.0,10.0,UPI,CASH_35,South,Chennai,Grocery
+TXN_202401150113,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8252,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1995.0,0.0,Net Banking,CASH_18,South,Bengaluru,Electronics
+TXN_202401150114,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4430,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4270.25,5.0,Credit Card,CASH_26,South,Bengaluru,Electronics
+TXN_202401150115,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3021,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1516.2,5.0,Net Banking,CASH_12,South,Bengaluru,Electronics
+TXN_202401150116,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4719,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,960.0,20.0,Net Banking,CASH_10,South,Bengaluru,Beverages
+TXN_202401150117,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1893,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2036.6,15.0,Net Banking,CASH_12,South,Bengaluru,Apparel
+TXN_202401150118,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9243,SKU_GROC_001,Basmati Rice 5kg,5,450.0,2250.0,0.0,Debit Card,CASH_26,South,Bengaluru,Grocery
+TXN_202401150119,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9087,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4270.25,5.0,Credit Card,CASH_29,South,Bengaluru,Electronics
+TXN_202401150120,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4124,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1140.0,5.0,Net Banking,CASH_46,South,Bengaluru,Beverages
+TXN_202401150121,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8961,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4495.0,0.0,Debit Card,CASH_35,South,Bengaluru,Electronics
+TXN_202401150122,STORE_003,Connaught Place,2024-01-17,CUST_4046,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,809.1,10.0,Cash,CASH_18,North,Delhi,Electronics
+TXN_202401150123,STORE_004,Hitec City Retail,2024-01-15,CUST_9938,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1797.0,0.0,Net Banking,CASH_16,South,Hyderabad,Apparel
+TXN_202401150124,STORE_003,Connaught Place,2024-01-15,CUST_8524,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,296.65,15.0,Debit Card,CASH_27,North,Delhi,Home Goods
+TXN_202401150125,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1299,SKU_BEV_002,Green Tea Box 50s,1,190.0,171.0,10.0,UPI,CASH_47,South,Bengaluru,Beverages
+TXN_202401150126,STORE_001,Indiranagar Metro,2024-01-15,CUST_9553,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,506.6,15.0,Debit Card,CASH_46,South,Bengaluru,Home Goods
+TXN_202401150127,STORE_003,Connaught Place,2024-01-16,CUST_7931,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1620.0,10.0,Cash,CASH_10,North,Delhi,Grocery
+TXN_202401150128,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_3303,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,958.4,20.0,Debit Card,CASH_49,South,Bengaluru,Apparel
+TXN_202401150129,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7644,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,268.2,10.0,Debit Card,CASH_46,South,Bengaluru,Home Goods
+TXN_202401150130,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6092,SKU_GROC_001,Basmati Rice 5kg,2,450.0,810.0,10.0,Debit Card,CASH_27,South,Bengaluru,Grocery
+TXN_202401150131,STORE_002,Bandra West Flagship,2024-01-16,CUST_7274,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2995.0,0.0,Debit Card,CASH_30,West,Mumbai,Apparel
+TXN_202401150132,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6042,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1745.0,0.0,Credit Card,CASH_15,South,Bengaluru,Home Goods
+TXN_202401150133,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4116,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,663.1,5.0,UPI,CASH_15,South,Bengaluru,Home Goods
+TXN_202401150134,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_3218,SKU_BEV_002,Green Tea Box 50s,1,190.0,180.5,5.0,Debit Card,CASH_21,South,Bengaluru,Beverages
+TXN_202401150135,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8815,SKU_GROC_001,Basmati Rice 5kg,2,450.0,765.0,15.0,UPI,CASH_13,South,Bengaluru,Grocery
+TXN_202401150136,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6909,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1017.45,15.0,Cash,CASH_16,South,Bengaluru,Electronics
+TXN_202401150137,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9839,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,319.2,20.0,Credit Card,CASH_49,South,Bengaluru,Electronics
+TXN_202401150138,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_1467,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1516.2,5.0,Net Banking,CASH_26,South,Bengaluru,Electronics
+TXN_202401150139,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5307,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,684.0,5.0,Cash,CASH_25,South,Bengaluru,Grocery
+TXN_202401150140,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2493,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,3597.6,20.0,Credit Card,CASH_14,South,Bengaluru,Apparel
+TXN_202401150141,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7040,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1186.6,15.0,Debit Card,CASH_48,South,Bengaluru,Home Goods
+TXN_202401150142,STORE_004,Hitec City Retail,2024-01-17,CUST_9852,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,1916.8,20.0,Cash,CASH_11,South,Hyderabad,Apparel
+TXN_202401150143,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_9210,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,432.0,20.0,Credit Card,CASH_45,South,Bengaluru,Grocery
+TXN_202401150144,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7354,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,283.1,5.0,Net Banking,CASH_28,South,Bengaluru,Home Goods
+TXN_202401150145,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8673,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1276.8,20.0,UPI,CASH_34,South,Bengaluru,Electronics
+TXN_202401150146,STORE_004,Hitec City Retail,2024-01-17,CUST_2506,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2396.0,0.0,UPI,CASH_22,South,Hyderabad,Apparel
+TXN_202401150147,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3081,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,253.3,15.0,Debit Card,CASH_44,South,Bengaluru,Home Goods
+TXN_202401150148,STORE_002,Bandra West Flagship,2024-01-16,CUST_7997,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1995.0,0.0,UPI,CASH_28,West,Mumbai,Electronics
+TXN_202401150149,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9699,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,837.6,20.0,Cash,CASH_19,South,Bengaluru,Home Goods
+TXN_202401150150,STORE_003,Connaught Place,2024-01-15,CUST_3705,SKU_BEV_002,Green Tea Box 50s,4,190.0,684.0,10.0,UPI,CASH_19,North,Delhi,Beverages
+TXN_202401150151,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_2597,SKU_BEV_002,Green Tea Box 50s,5,190.0,760.0,20.0,Net Banking,CASH_37,South,Bengaluru,Beverages
+TXN_202401150152,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6373,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,408.0,15.0,UPI,CASH_47,South,Bengaluru,Beverages
+TXN_202401150153,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7248,SKU_GROC_001,Basmati Rice 5kg,2,450.0,765.0,15.0,Net Banking,CASH_37,South,Bengaluru,Grocery
+TXN_202401150154,STORE_005,Anna Nagar Central,2024-01-16,CUST_3404,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1499.0,0.0,UPI,CASH_46,South,Chennai,Apparel
+TXN_202401150155,STORE_003,Connaught Place,2024-01-16,CUST_7587,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,331.55,5.0,Cash,CASH_38,North,Delhi,Home Goods
+TXN_202401150156,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7214,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1499.0,0.0,Credit Card,CASH_23,South,Bengaluru,Apparel
+TXN_202401150157,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_1847,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,899.0,0.0,UPI,CASH_30,South,Bengaluru,Electronics
+TXN_202401150158,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8124,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,298.0,0.0,Debit Card,CASH_12,South,Bengaluru,Home Goods
+TXN_202401150159,STORE_003,Connaught Place,2024-01-15,CUST_8661,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1437.6,20.0,Net Banking,CASH_33,North,Delhi,Apparel
+TXN_202401150160,STORE_001,Indiranagar Metro,2024-01-16,CUST_1594,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4045.5,10.0,Debit Card,CASH_46,South,Bengaluru,Electronics
+TXN_202401150161,STORE_002,Bandra West Flagship,2024-01-18,CUST_4654,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,5996.0,20.0,Cash,CASH_25,West,Mumbai,Apparel
+TXN_202401150162,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5701,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,479.2,20.0,Credit Card,CASH_26,South,Bengaluru,Apparel
+TXN_202401150163,STORE_005,Anna Nagar Central,2024-01-15,CUST_5895,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,509.15,15.0,Cash,CASH_45,South,Chennai,Apparel
+TXN_202401150164,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7288,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,854.05,5.0,Net Banking,CASH_11,South,Bengaluru,Electronics
+TXN_202401150165,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7438,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1895.25,5.0,Net Banking,CASH_14,South,Bengaluru,Electronics
+TXN_202401150166,STORE_004,Hitec City Retail,2024-01-15,CUST_3441,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1018.3,15.0,Credit Card,CASH_20,South,Hyderabad,Apparel
+TXN_202401150167,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2193,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1745.0,0.0,Debit Card,CASH_50,South,Bengaluru,Home Goods
+TXN_202401150168,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1017,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,569.05,5.0,UPI,CASH_49,South,Bengaluru,Apparel
+TXN_202401150169,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_8644,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,5396.4,10.0,Cash,CASH_10,South,Bengaluru,Apparel
+TXN_202401150170,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4453,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,942.3,10.0,Debit Card,CASH_41,South,Bengaluru,Home Goods
+TXN_202401150171,STORE_005,Anna Nagar Central,2024-01-15,CUST_8608,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1695.75,15.0,Cash,CASH_47,South,Chennai,Electronics
+TXN_202401150172,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2067,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1710.0,5.0,UPI,CASH_49,South,Bengaluru,Grocery
+TXN_202401150173,STORE_001,Indiranagar Metro,2024-01-15,CUST_8682,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,599.0,0.0,Cash,CASH_48,South,Bengaluru,Apparel
+TXN_202401150174,STORE_002,Bandra West Flagship,2024-01-15,CUST_6359,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,994.65,5.0,UPI,CASH_15,West,Mumbai,Home Goods
+TXN_202401150175,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6286,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1707.15,5.0,UPI,CASH_46,South,Bengaluru,Apparel
+TXN_202401150176,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_1228,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,342.0,5.0,UPI,CASH_24,South,Bengaluru,Grocery
+TXN_202401150177,STORE_002,Bandra West Flagship,2024-01-17,CUST_7904,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1798.0,0.0,Debit Card,CASH_32,West,Mumbai,Electronics
+TXN_202401150178,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4162,SKU_GROC_001,Basmati Rice 5kg,1,450.0,427.5,5.0,Credit Card,CASH_43,South,Bengaluru,Grocery
+TXN_202401150179,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7668,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1800.0,20.0,Cash,CASH_23,South,Bengaluru,Grocery
+TXN_202401150180,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7822,SKU_GROC_001,Basmati Rice 5kg,1,450.0,450.0,0.0,Net Banking,CASH_42,South,Bengaluru,Grocery
+TXN_202401150181,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6070,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1356.6,15.0,Credit Card,CASH_12,South,Bengaluru,Electronics
+TXN_202401150182,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8766,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2398.4,20.0,Debit Card,CASH_38,South,Bengaluru,Apparel
+TXN_202401150183,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1294,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2695.5,10.0,Cash,CASH_42,South,Bengaluru,Apparel
+TXN_202401150184,STORE_001,Indiranagar Metro,2024-01-15,CUST_1437,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,539.1,10.0,Debit Card,CASH_21,South,Bengaluru,Apparel
+TXN_202401150185,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_2637,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1708.1,5.0,Credit Card,CASH_45,South,Bengaluru,Electronics
+TXN_202401150186,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9412,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,889.95,15.0,UPI,CASH_22,South,Bengaluru,Home Goods
+TXN_202401150187,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9421,SKU_BEV_002,Green Tea Box 50s,4,190.0,646.0,15.0,Cash,CASH_22,South,Bengaluru,Beverages
+TXN_202401150188,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3618,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1197.0,0.0,Debit Card,CASH_18,South,Bengaluru,Electronics
+TXN_202401150189,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_3026,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,684.0,5.0,Cash,CASH_27,South,Bengaluru,Beverages
+TXN_202401150190,STORE_002,Bandra West Flagship,2024-01-16,CUST_6145,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,3056.6,15.0,Debit Card,CASH_39,West,Mumbai,Electronics
+TXN_202401150191,STORE_004,Hitec City Retail,2024-01-16,CUST_2719,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,720.0,20.0,Debit Card,CASH_25,South,Hyderabad,Grocery
+TXN_202401150192,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5724,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,432.0,10.0,Cash,CASH_49,South,Bengaluru,Beverages
+TXN_202401150193,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9775,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,3056.6,15.0,Cash,CASH_21,South,Bengaluru,Electronics
+TXN_202401150194,STORE_004,Hitec City Retail,2024-01-15,CUST_1058,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,402.3,10.0,UPI,CASH_40,South,Hyderabad,Home Goods
+TXN_202401150195,STORE_002,Bandra West Flagship,2024-01-16,CUST_9926,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,4047.3,10.0,Debit Card,CASH_41,West,Mumbai,Apparel
+TXN_202401150196,STORE_005,Anna Nagar Central,2024-01-18,CUST_8792,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,678.3,15.0,Cash,CASH_26,South,Chennai,Electronics
+TXN_202401150197,STORE_002,Bandra West Flagship,2024-01-17,CUST_4220,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,7495.0,0.0,Debit Card,CASH_22,West,Mumbai,Apparel
+TXN_202401150198,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1294,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,864.0,10.0,Debit Card,CASH_19,South,Bengaluru,Beverages
+TXN_202401150199,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4173,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,6745.5,10.0,UPI,CASH_30,South,Bengaluru,Apparel
+TXN_202401150200,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6807,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2545.75,15.0,Credit Card,CASH_19,South,Bengaluru,Apparel
+TXN_202401150201,STORE_005,Anna Nagar Central,2024-01-16,CUST_2376,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1570.5,10.0,Cash,CASH_14,South,Chennai,Home Goods
+TXN_202401150202,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5912,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1116.8,20.0,UPI,CASH_20,South,Bengaluru,Home Goods
+TXN_202401150203,STORE_005,Anna Nagar Central,2024-01-16,CUST_4160,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,599.0,0.0,UPI,CASH_36,South,Chennai,Apparel
+TXN_202401150204,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_9205,SKU_BEV_002,Green Tea Box 50s,1,190.0,190.0,0.0,Debit Card,CASH_34,South,Bengaluru,Beverages
+TXN_202401150205,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5376,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1483.25,15.0,Net Banking,CASH_46,South,Bengaluru,Home Goods
+TXN_202401150206,STORE_001,Indiranagar Metro,2024-01-18,CUST_7011,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,764.15,15.0,Credit Card,CASH_25,South,Bengaluru,Electronics
+TXN_202401150207,STORE_003,Connaught Place,2024-01-18,CUST_4017,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,153.0,15.0,Debit Card,CASH_12,North,Delhi,Grocery
+TXN_202401150208,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6790,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,994.65,5.0,UPI,CASH_32,South,Bengaluru,Home Goods
+TXN_202401150209,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8160,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1620.0,10.0,UPI,CASH_18,South,Bengaluru,Grocery
+TXN_202401150210,STORE_005,Anna Nagar Central,2024-01-15,CUST_8126,SKU_GROC_001,Basmati Rice 5kg,2,450.0,855.0,5.0,Cash,CASH_38,South,Chennai,Grocery
+TXN_202401150211,STORE_005,Anna Nagar Central,2024-01-16,CUST_8398,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,379.95,15.0,Debit Card,CASH_26,South,Chennai,Home Goods
+TXN_202401150212,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7874,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,719.2,20.0,UPI,CASH_16,South,Bengaluru,Electronics
+TXN_202401150213,STORE_001,Indiranagar Metro,2024-01-17,CUST_4020,SKU_BEV_002,Green Tea Box 50s,5,190.0,950.0,0.0,Cash,CASH_41,South,Bengaluru,Beverages
+TXN_202401150214,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4593,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,288.0,20.0,UPI,CASH_22,South,Bengaluru,Grocery
+TXN_202401150215,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4904,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,810.0,10.0,Cash,CASH_32,South,Bengaluru,Grocery
+TXN_202401150216,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_3312,SKU_BEV_002,Green Tea Box 50s,2,190.0,380.0,0.0,Debit Card,CASH_28,South,Bengaluru,Beverages
+TXN_202401150217,STORE_004,Hitec City Retail,2024-01-17,CUST_2916,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2398.4,20.0,Credit Card,CASH_15,South,Hyderabad,Apparel
+TXN_202401150218,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7647,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1198.0,0.0,Debit Card,CASH_17,South,Bengaluru,Apparel
+TXN_202401150219,STORE_003,Connaught Place,2024-01-15,CUST_7226,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,719.2,20.0,UPI,CASH_34,North,Delhi,Electronics
+TXN_202401150220,STORE_003,Connaught Place,2024-01-15,CUST_4274,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,599.0,0.0,Cash,CASH_17,North,Delhi,Apparel
+TXN_202401150221,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7461,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1017.45,15.0,Cash,CASH_27,South,Bengaluru,Electronics
+TXN_202401150222,STORE_002,Bandra West Flagship,2024-01-18,CUST_8896,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,855.0,5.0,UPI,CASH_46,West,Mumbai,Grocery
+TXN_202401150223,STORE_001,Indiranagar Metro,2024-01-16,CUST_9113,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,3056.6,15.0,Credit Card,CASH_13,South,Bengaluru,Electronics
+TXN_202401150224,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8211,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,745.0,0.0,Net Banking,CASH_34,South,Bengaluru,Home Goods
+TXN_202401150225,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_9237,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,745.0,0.0,Credit Card,CASH_11,South,Bengaluru,Home Goods
+TXN_202401150226,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_1403,SKU_BEV_002,Green Tea Box 50s,5,190.0,760.0,20.0,Cash,CASH_48,South,Bengaluru,Beverages
+TXN_202401150227,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3898,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,648.0,10.0,UPI,CASH_22,South,Bengaluru,Grocery
+TXN_202401150228,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7199,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,5996.0,20.0,UPI,CASH_23,South,Bengaluru,Apparel
+TXN_202401150229,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1136,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,204.0,15.0,Credit Card,CASH_11,South,Bengaluru,Beverages
+TXN_202401150230,STORE_001,Indiranagar Metro,2024-01-16,CUST_2081,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1078.2,10.0,UPI,CASH_50,South,Bengaluru,Apparel
+TXN_202401150231,STORE_002,Bandra West Flagship,2024-01-15,CUST_5620,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2548.3,15.0,Net Banking,CASH_11,West,Mumbai,Apparel
+TXN_202401150232,STORE_004,Hitec City Retail,2024-01-18,CUST_3528,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,684.0,5.0,Debit Card,CASH_40,South,Hyderabad,Beverages
+TXN_202401150233,STORE_002,Bandra West Flagship,2024-01-18,CUST_2035,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,349.0,0.0,Debit Card,CASH_39,West,Mumbai,Home Goods
+TXN_202401150234,STORE_005,Anna Nagar Central,2024-01-18,CUST_5641,SKU_BEV_002,Green Tea Box 50s,1,190.0,161.5,15.0,Debit Card,CASH_35,South,Chennai,Beverages
+TXN_202401150235,STORE_003,Connaught Place,2024-01-17,CUST_7416,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,253.3,15.0,UPI,CASH_15,North,Delhi,Home Goods
+TXN_202401150236,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5655,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1396.0,0.0,Cash,CASH_28,South,Bengaluru,Home Goods
+TXN_202401150237,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7714,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2427.3,10.0,Cash,CASH_40,South,Bengaluru,Electronics
+TXN_202401150238,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_9044,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,459.0,15.0,UPI,CASH_41,South,Bengaluru,Grocery
+TXN_202401150239,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1559,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,5996.0,20.0,UPI,CASH_27,South,Bengaluru,Apparel
+TXN_202401150240,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6685,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2292.45,15.0,Debit Card,CASH_31,South,Bengaluru,Electronics
+TXN_202401150241,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5324,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1596.0,0.0,Net Banking,CASH_44,South,Bengaluru,Electronics
+TXN_202401150242,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_1793,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1256.4,10.0,Net Banking,CASH_20,South,Bengaluru,Home Goods
+TXN_202401150243,STORE_004,Hitec City Retail,2024-01-15,CUST_4611,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2845.25,5.0,Net Banking,CASH_48,South,Hyderabad,Apparel
+TXN_202401150244,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4876,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1396.0,20.0,UPI,CASH_38,South,Bengaluru,Home Goods
+TXN_202401150245,STORE_004,Hitec City Retail,2024-01-17,CUST_1805,SKU_BEV_002,Green Tea Box 50s,2,190.0,304.0,20.0,Net Banking,CASH_21,South,Hyderabad,Beverages
+TXN_202401150246,STORE_005,Anna Nagar Central,2024-01-16,CUST_6846,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1596.0,20.0,UPI,CASH_42,South,Chennai,Electronics
+TXN_202401150247,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_3569,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1596.0,20.0,Credit Card,CASH_32,South,Bengaluru,Electronics
+TXN_202401150248,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7230,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2695.5,10.0,Net Banking,CASH_16,South,Bengaluru,Apparel
+TXN_202401150249,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_3308,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2548.3,15.0,UPI,CASH_33,South,Bengaluru,Apparel
+TXN_202401150250,STORE_002,Bandra West Flagship,2024-01-17,CUST_1809,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,593.3,15.0,Net Banking,CASH_15,West,Mumbai,Home Goods
+TXN_202401150251,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4427,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,648.0,10.0,Net Banking,CASH_35,South,Bengaluru,Beverages
+TXN_202401150252,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6767,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1528.3,15.0,Debit Card,CASH_20,South,Bengaluru,Electronics
+TXN_202401150253,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_1287,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,994.65,5.0,Credit Card,CASH_13,South,Bengaluru,Home Goods
+TXN_202401150254,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_1291,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2276.2,5.0,Net Banking,CASH_50,South,Bengaluru,Apparel
+TXN_202401150255,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6161,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,3416.2,5.0,Credit Card,CASH_36,South,Bengaluru,Electronics
+TXN_202401150256,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4135,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1436.4,10.0,Credit Card,CASH_19,South,Bengaluru,Electronics
+TXN_202401150257,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5768,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4270.25,5.0,Credit Card,CASH_27,South,Bengaluru,Electronics
+TXN_202401150258,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_8267,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1440.0,20.0,Credit Card,CASH_46,South,Bengaluru,Grocery
+TXN_202401150259,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6045,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,3596.0,20.0,UPI,CASH_45,South,Bengaluru,Electronics
+TXN_202401150260,STORE_005,Anna Nagar Central,2024-01-18,CUST_9191,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,4796.8,20.0,UPI,CASH_46,South,Chennai,Apparel
+TXN_202401150261,STORE_005,Anna Nagar Central,2024-01-17,CUST_5548,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,1916.8,20.0,Credit Card,CASH_17,South,Chennai,Apparel
+TXN_202401150262,STORE_005,Anna Nagar Central,2024-01-15,CUST_6790,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,513.0,5.0,UPI,CASH_40,South,Chennai,Grocery
+TXN_202401150263,STORE_005,Anna Nagar Central,2024-01-18,CUST_7569,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,855.0,5.0,Debit Card,CASH_44,South,Chennai,Grocery
+TXN_202401150264,STORE_001,Indiranagar Metro,2024-01-16,CUST_6960,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,764.15,15.0,Cash,CASH_13,South,Bengaluru,Electronics
+TXN_202401150265,STORE_004,Hitec City Retail,2024-01-18,CUST_7680,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,509.15,15.0,Debit Card,CASH_49,South,Hyderabad,Apparel
+TXN_202401150266,STORE_002,Bandra West Flagship,2024-01-18,CUST_4308,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,628.2,10.0,Debit Card,CASH_17,West,Mumbai,Home Goods
+TXN_202401150267,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_8617,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,707.75,5.0,Cash,CASH_50,South,Bengaluru,Home Goods
+TXN_202401150268,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3591,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1137.15,5.0,Credit Card,CASH_12,South,Bengaluru,Electronics
+TXN_202401150269,STORE_002,Bandra West Flagship,2024-01-15,CUST_6919,SKU_BEV_002,Green Tea Box 50s,3,190.0,456.0,20.0,Net Banking,CASH_21,West,Mumbai,Beverages
+TXN_202401150270,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2831,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1424.05,5.0,UPI,CASH_43,South,Bengaluru,Apparel
+TXN_202401150271,STORE_003,Connaught Place,2024-01-15,CUST_2516,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,4497.0,0.0,Cash,CASH_38,North,Delhi,Apparel
+TXN_202401150272,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2670,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,349.0,0.0,Cash,CASH_21,South,Bengaluru,Home Goods
+TXN_202401150273,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6813,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,599.0,0.0,Cash,CASH_50,South,Bengaluru,Apparel
+TXN_202401150274,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_1185,SKU_BEV_002,Green Tea Box 50s,5,190.0,950.0,0.0,Debit Card,CASH_31,South,Bengaluru,Beverages
+TXN_202401150275,STORE_003,Connaught Place,2024-01-15,CUST_6531,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1620.0,10.0,Cash,CASH_21,North,Delhi,Grocery
+TXN_202401150276,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3101,SKU_BEV_002,Green Tea Box 50s,5,190.0,855.0,10.0,Cash,CASH_15,South,Bengaluru,Beverages
+TXN_202401150277,STORE_001,Indiranagar Metro,2024-01-15,CUST_9873,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,864.0,10.0,Debit Card,CASH_15,South,Bengaluru,Beverages
+TXN_202401150278,STORE_004,Hitec City Retail,2024-01-15,CUST_6678,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,536.4,10.0,Debit Card,CASH_19,South,Hyderabad,Home Goods
+TXN_202401150279,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8697,SKU_BEV_002,Green Tea Box 50s,4,190.0,646.0,15.0,Debit Card,CASH_14,South,Bengaluru,Beverages
+TXN_202401150280,STORE_002,Bandra West Flagship,2024-01-15,CUST_5299,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,855.0,5.0,Net Banking,CASH_48,West,Mumbai,Grocery
+TXN_202401150281,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7392,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,7495.0,0.0,UPI,CASH_32,South,Bengaluru,Apparel
+TXN_202401150282,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4683,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1440.0,20.0,Net Banking,CASH_24,South,Bengaluru,Grocery
+TXN_202401150283,STORE_004,Hitec City Retail,2024-01-18,CUST_6352,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,864.0,10.0,Credit Card,CASH_27,South,Hyderabad,Beverages
+TXN_202401150284,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4683,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1516.2,5.0,Debit Card,CASH_18,South,Bengaluru,Electronics
+TXN_202401150285,STORE_002,Bandra West Flagship,2024-01-15,CUST_5956,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,384.0,20.0,Credit Card,CASH_13,West,Mumbai,Beverages
+TXN_202401150286,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_9768,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,960.0,20.0,UPI,CASH_41,South,Bengaluru,Beverages
+TXN_202401150287,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1108,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1596.0,0.0,Debit Card,CASH_29,South,Bengaluru,Electronics
+TXN_202401150288,STORE_004,Hitec City Retail,2024-01-17,CUST_8807,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,539.1,10.0,UPI,CASH_12,South,Hyderabad,Apparel
+TXN_202401150289,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5800,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,1,149.0,134.1,10.0,UPI,CASH_36,South,Bengaluru,Home Goods
+TXN_202401150290,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4521,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,4047.3,10.0,Debit Card,CASH_31,South,Bengaluru,Apparel
+TXN_202401150291,STORE_005,Anna Nagar Central,2024-01-18,CUST_1678,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1140.0,5.0,Net Banking,CASH_29,South,Chennai,Beverages
+TXN_202401150292,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7761,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,479.2,20.0,UPI,CASH_10,South,Bengaluru,Apparel
+TXN_202401150293,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4221,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,456.0,5.0,Cash,CASH_12,South,Bengaluru,Beverages
+TXN_202401150294,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8072,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2845.25,5.0,Credit Card,CASH_29,South,Bengaluru,Apparel
+TXN_202401150295,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7179,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,612.0,15.0,Net Banking,CASH_24,South,Bengaluru,Grocery
+TXN_202401150296,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4516,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2848.1,5.0,Cash,CASH_21,South,Bengaluru,Apparel
+TXN_202401150297,STORE_004,Hitec City Retail,2024-01-18,CUST_1655,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1396.0,0.0,Net Banking,CASH_30,South,Hyderabad,Home Goods
+TXN_202401150298,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9222,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1695.75,15.0,Debit Card,CASH_17,South,Bengaluru,Electronics
+TXN_202401150299,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2582,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1483.25,15.0,UPI,CASH_39,South,Bengaluru,Home Goods
+TXN_202401150300,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6537,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,1047.0,0.0,Cash,CASH_47,South,Bengaluru,Home Goods
+TXN_202401150301,STORE_004,Hitec City Retail,2024-01-16,CUST_1009,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,5396.4,10.0,UPI,CASH_20,South,Hyderabad,Apparel
+TXN_202401150302,STORE_001,Indiranagar Metro,2024-01-18,CUST_4277,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,349.0,0.0,Credit Card,CASH_20,South,Bengaluru,Home Goods
+TXN_202401150303,STORE_003,Connaught Place,2024-01-17,CUST_4376,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,288.0,20.0,Credit Card,CASH_42,North,Delhi,Grocery
+TXN_202401150304,STORE_005,Anna Nagar Central,2024-01-17,CUST_2606,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,576.0,20.0,UPI,CASH_19,South,Chennai,Beverages
+TXN_202401150305,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_2276,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,633.25,15.0,Credit Card,CASH_50,South,Bengaluru,Home Goods
+TXN_202401150306,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7113,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,288.0,20.0,Debit Card,CASH_38,South,Bengaluru,Grocery
+TXN_202401150307,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1862,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,162.0,10.0,Cash,CASH_48,South,Bengaluru,Grocery
+TXN_202401150308,STORE_003,Connaught Place,2024-01-18,CUST_4396,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,768.0,20.0,Debit Card,CASH_41,North,Delhi,Beverages
+TXN_202401150309,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2335,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,162.0,10.0,Cash,CASH_30,South,Bengaluru,Grocery
+TXN_202401150310,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6310,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1657.75,5.0,Cash,CASH_32,South,Bengaluru,Home Goods
+TXN_202401150311,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6096,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,718.2,10.0,Credit Card,CASH_10,South,Bengaluru,Electronics
+TXN_202401150312,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_1783,SKU_BEV_002,Green Tea Box 50s,1,190.0,161.5,15.0,UPI,CASH_18,South,Bengaluru,Beverages
+TXN_202401150313,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3888,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,720.0,0.0,Debit Card,CASH_21,South,Bengaluru,Beverages
+TXN_202401150314,STORE_001,Indiranagar Metro,2024-01-17,CUST_1606,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,698.0,0.0,UPI,CASH_15,South,Bengaluru,Home Goods
+TXN_202401150315,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_8380,SKU_BEV_002,Green Tea Box 50s,4,190.0,722.0,5.0,Net Banking,CASH_12,South,Bengaluru,Beverages
+TXN_202401150316,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6597,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,192.0,20.0,Credit Card,CASH_48,South,Bengaluru,Beverages
+TXN_202401150317,STORE_002,Bandra West Flagship,2024-01-17,CUST_5076,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,576.0,20.0,Credit Card,CASH_31,West,Mumbai,Grocery
+TXN_202401150318,STORE_004,Hitec City Retail,2024-01-17,CUST_5942,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,228.0,5.0,Debit Card,CASH_23,South,Hyderabad,Beverages
+TXN_202401150319,STORE_002,Bandra West Flagship,2024-01-15,CUST_2485,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,509.15,15.0,UPI,CASH_15,West,Mumbai,Apparel
+TXN_202401150320,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6317,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1618.2,10.0,UPI,CASH_45,South,Bengaluru,Electronics
+TXN_202401150321,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5979,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1708.1,5.0,Net Banking,CASH_49,South,Bengaluru,Electronics
+TXN_202401150322,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_2822,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2157.6,20.0,UPI,CASH_26,South,Bengaluru,Electronics
+TXN_202401150323,STORE_003,Connaught Place,2024-01-16,CUST_3916,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1745.0,0.0,UPI,CASH_20,North,Delhi,Home Goods
+TXN_202401150324,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_8028,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,540.0,0.0,Credit Card,CASH_43,South,Bengaluru,Grocery
+TXN_202401150325,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7065,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,569.05,5.0,Credit Card,CASH_47,South,Bengaluru,Apparel
+TXN_202401150326,STORE_002,Bandra West Flagship,2024-01-18,CUST_1469,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,279.2,20.0,Debit Card,CASH_24,West,Mumbai,Home Goods
+TXN_202401150327,STORE_003,Connaught Place,2024-01-15,CUST_9452,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,486.0,10.0,Net Banking,CASH_24,North,Delhi,Grocery
+TXN_202401150328,STORE_004,Hitec City Retail,2024-01-18,CUST_1408,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,855.0,5.0,Net Banking,CASH_24,South,Hyderabad,Grocery
+TXN_202401150329,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_3722,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2697.0,0.0,Net Banking,CASH_26,South,Bengaluru,Electronics
+TXN_202401150330,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5048,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1276.8,20.0,Debit Card,CASH_49,South,Bengaluru,Electronics
+TXN_202401150331,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9394,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,539.1,10.0,UPI,CASH_18,South,Bengaluru,Apparel
+TXN_202401150332,STORE_001,Indiranagar Metro,2024-01-15,CUST_8687,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,810.0,10.0,Net Banking,CASH_43,South,Bengaluru,Grocery
+TXN_202401150333,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5116,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,1,149.0,141.55,5.0,Credit Card,CASH_16,South,Bengaluru,Home Goods
+TXN_202401150334,STORE_002,Bandra West Flagship,2024-01-16,CUST_8780,SKU_BEV_002,Green Tea Box 50s,1,190.0,152.0,20.0,Credit Card,CASH_29,West,Mumbai,Beverages
+TXN_202401150335,STORE_001,Indiranagar Metro,2024-01-16,CUST_5662,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,994.65,5.0,Debit Card,CASH_36,South,Bengaluru,Home Goods
+TXN_202401150336,STORE_002,Bandra West Flagship,2024-01-18,CUST_4690,SKU_GROC_001,Basmati Rice 5kg,1,450.0,360.0,20.0,UPI,CASH_24,West,Mumbai,Grocery
+TXN_202401150337,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1783,SKU_GROC_001,Basmati Rice 5kg,2,450.0,765.0,15.0,Cash,CASH_17,South,Bengaluru,Grocery
+TXN_202401150338,STORE_005,Anna Nagar Central,2024-01-15,CUST_8724,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1215.0,10.0,Cash,CASH_28,South,Chennai,Grocery
+TXN_202401150339,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4258,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2398.4,20.0,Cash,CASH_28,South,Bengaluru,Apparel
+TXN_202401150340,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8298,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,432.0,20.0,Cash,CASH_46,South,Bengaluru,Grocery
+TXN_202401150341,STORE_004,Hitec City Retail,2024-01-17,CUST_3476,SKU_GROC_001,Basmati Rice 5kg,1,450.0,382.5,15.0,Cash,CASH_28,South,Hyderabad,Grocery
+TXN_202401150342,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5905,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,240.0,0.0,Credit Card,CASH_44,South,Bengaluru,Beverages
+TXN_202401150343,STORE_002,Bandra West Flagship,2024-01-17,CUST_4886,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2427.3,10.0,Debit Card,CASH_28,West,Mumbai,Electronics
+TXN_202401150344,STORE_001,Indiranagar Metro,2024-01-16,CUST_9080,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4495.0,0.0,UPI,CASH_14,South,Bengaluru,Electronics
+TXN_202401150345,STORE_005,Anna Nagar Central,2024-01-15,CUST_8231,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,719.2,20.0,Net Banking,CASH_11,South,Chennai,Electronics
+TXN_202401150346,STORE_005,Anna Nagar Central,2024-01-18,CUST_1490,SKU_GROC_001,Basmati Rice 5kg,1,450.0,360.0,20.0,Cash,CASH_30,South,Chennai,Grocery
+TXN_202401150347,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1587,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,994.65,5.0,Credit Card,CASH_11,South,Bengaluru,Home Goods
+TXN_202401150348,STORE_004,Hitec City Retail,2024-01-16,CUST_8940,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,960.0,20.0,Credit Card,CASH_14,South,Hyderabad,Beverages
+TXN_202401150349,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3820,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,7120.25,5.0,Net Banking,CASH_40,South,Bengaluru,Apparel
+TXN_202401150350,STORE_005,Anna Nagar Central,2024-01-18,CUST_3182,SKU_BEV_002,Green Tea Box 50s,4,190.0,684.0,10.0,Credit Card,CASH_33,South,Chennai,Beverages
+TXN_202401150351,STORE_005,Anna Nagar Central,2024-01-18,CUST_4505,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,576.0,20.0,Debit Card,CASH_33,South,Chennai,Beverages
+TXN_202401150352,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7509,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,153.0,15.0,Net Banking,CASH_10,South,Bengaluru,Grocery
+TXN_202401150353,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6464,SKU_BEV_002,Green Tea Box 50s,3,190.0,513.0,10.0,UPI,CASH_43,South,Bengaluru,Beverages
+TXN_202401150354,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5877,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1256.4,10.0,Net Banking,CASH_10,South,Bengaluru,Home Goods
+TXN_202401150355,STORE_001,Indiranagar Metro,2024-01-16,CUST_2194,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,240.0,0.0,Cash,CASH_18,South,Bengaluru,Beverages
+TXN_202401150356,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8637,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,684.0,5.0,UPI,CASH_27,South,Bengaluru,Grocery
+TXN_202401150357,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_2779,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1140.0,5.0,Net Banking,CASH_30,South,Bengaluru,Beverages
+TXN_202401150358,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9087,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,3236.4,10.0,UPI,CASH_34,South,Bengaluru,Electronics
+TXN_202401150359,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9669,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1326.2,5.0,Credit Card,CASH_15,South,Bengaluru,Home Goods
+TXN_202401150360,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7961,SKU_BEV_002,Green Tea Box 50s,3,190.0,484.5,15.0,Debit Card,CASH_46,South,Bengaluru,Beverages
+TXN_202401150361,STORE_003,Connaught Place,2024-01-18,CUST_9131,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2698.2,10.0,Debit Card,CASH_25,North,Delhi,Apparel
+TXN_202401150362,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5815,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2998.0,0.0,Net Banking,CASH_49,South,Bengaluru,Apparel
+TXN_202401150363,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2157,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,349.0,0.0,Net Banking,CASH_41,South,Bengaluru,Home Goods
+TXN_202401150364,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8841,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1017.45,15.0,Cash,CASH_20,South,Bengaluru,Electronics
+TXN_202401150365,STORE_004,Hitec City Retail,2024-01-17,CUST_9499,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2697.0,0.0,Cash,CASH_21,South,Hyderabad,Electronics
+TXN_202401150366,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6720,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,1,149.0,126.65,15.0,Net Banking,CASH_24,South,Bengaluru,Home Goods
+TXN_202401150367,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_3078,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2848.1,5.0,UPI,CASH_25,South,Bengaluru,Apparel
+TXN_202401150368,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6740,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2036.6,15.0,Cash,CASH_29,South,Bengaluru,Apparel
+TXN_202401150369,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8446,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1483.25,15.0,Net Banking,CASH_47,South,Bengaluru,Home Goods
+TXN_202401150370,STORE_003,Connaught Place,2024-01-15,CUST_7355,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1530.0,15.0,Debit Card,CASH_32,North,Delhi,Grocery
+TXN_202401150371,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6917,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,3597.6,20.0,Debit Card,CASH_31,South,Bengaluru,Apparel
+TXN_202401150372,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3053,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,2876.8,20.0,Credit Card,CASH_16,South,Bengaluru,Electronics
+TXN_202401150373,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_1522,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1483.25,15.0,Net Banking,CASH_18,South,Bengaluru,Home Goods
+TXN_202401150374,STORE_003,Connaught Place,2024-01-17,CUST_8312,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,296.65,15.0,Credit Card,CASH_48,North,Delhi,Home Goods
+TXN_202401150375,STORE_004,Hitec City Retail,2024-01-16,CUST_8970,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1274.15,15.0,Credit Card,CASH_40,South,Hyderabad,Apparel
+TXN_202401150376,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7786,SKU_BEV_002,Green Tea Box 50s,2,190.0,342.0,10.0,Cash,CASH_14,South,Bengaluru,Beverages
+TXN_202401150377,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1327,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1116.8,20.0,Net Banking,CASH_30,South,Bengaluru,Home Goods
+TXN_202401150378,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6215,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,684.0,5.0,Cash,CASH_24,South,Bengaluru,Grocery
+TXN_202401150379,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7569,SKU_GROC_001,Basmati Rice 5kg,1,450.0,360.0,20.0,Cash,CASH_45,South,Bengaluru,Grocery
+TXN_202401150380,STORE_001,Indiranagar Metro,2024-01-15,CUST_4339,SKU_GROC_001,Basmati Rice 5kg,5,450.0,2250.0,0.0,UPI,CASH_13,South,Bengaluru,Grocery
+TXN_202401150381,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_2072,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,279.2,20.0,UPI,CASH_19,South,Bengaluru,Home Goods
+TXN_202401150382,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8785,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,596.0,0.0,Cash,CASH_19,South,Bengaluru,Home Goods
+TXN_202401150383,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8605,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,3596.0,20.0,Debit Card,CASH_11,South,Bengaluru,Electronics
+TXN_202401150384,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5202,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,447.0,0.0,Cash,CASH_36,South,Bengaluru,Home Goods
+TXN_202401150385,STORE_005,Anna Nagar Central,2024-01-17,CUST_7786,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1912.5,15.0,Cash,CASH_42,South,Chennai,Grocery
+TXN_202401150386,STORE_003,Connaught Place,2024-01-16,CUST_4558,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,816.0,15.0,UPI,CASH_22,North,Delhi,Beverages
+TXN_202401150387,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6753,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,509.15,15.0,Debit Card,CASH_30,South,Bengaluru,Apparel
+TXN_202401150388,STORE_005,Anna Nagar Central,2024-01-15,CUST_8692,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,718.2,10.0,Debit Card,CASH_11,South,Chennai,Electronics
+TXN_202401150389,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_8266,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,171.0,5.0,Cash,CASH_31,South,Bengaluru,Grocery
+TXN_202401150390,STORE_003,Connaught Place,2024-01-16,CUST_1659,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,612.0,15.0,Credit Card,CASH_10,North,Delhi,Grocery
+TXN_202401150391,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8058,SKU_BEV_002,Green Tea Box 50s,3,190.0,484.5,15.0,Net Banking,CASH_25,South,Bengaluru,Beverages
+TXN_202401150392,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6853,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1798.0,0.0,UPI,CASH_33,South,Bengaluru,Electronics
+TXN_202401150393,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5739,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,720.0,20.0,Credit Card,CASH_40,South,Bengaluru,Grocery
+TXN_202401150394,STORE_001,Indiranagar Metro,2024-01-16,CUST_4330,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,960.0,20.0,Debit Card,CASH_13,South,Bengaluru,Beverages
+TXN_202401150395,STORE_005,Anna Nagar Central,2024-01-15,CUST_4037,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4495.0,0.0,Net Banking,CASH_47,South,Chennai,Electronics
+TXN_202401150396,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4944,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,3822.45,15.0,Credit Card,CASH_18,South,Bengaluru,Apparel
+TXN_202401150397,STORE_001,Indiranagar Metro,2024-01-17,CUST_7254,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,298.0,0.0,Debit Card,CASH_23,South,Bengaluru,Home Goods
+TXN_202401150398,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_2303,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1617.3,10.0,Cash,CASH_34,South,Bengaluru,Apparel
+TXN_202401150399,STORE_001,Indiranagar Metro,2024-01-18,CUST_1980,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4495.0,0.0,Credit Card,CASH_20,South,Bengaluru,Electronics
+TXN_202401150400,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7301,SKU_BEV_002,Green Tea Box 50s,1,190.0,190.0,0.0,UPI,CASH_14,South,Bengaluru,Beverages
+TXN_202401150401,STORE_005,Anna Nagar Central,2024-01-15,CUST_3608,SKU_BEV_002,Green Tea Box 50s,1,190.0,180.5,5.0,Credit Card,CASH_27,South,Chennai,Beverages
+TXN_202401150402,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8205,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1618.2,10.0,Debit Card,CASH_45,South,Bengaluru,Electronics
+TXN_202401150403,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4144,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4495.0,0.0,UPI,CASH_13,South,Bengaluru,Electronics
+TXN_202401150404,STORE_001,Indiranagar Metro,2024-01-17,CUST_4949,SKU_BEV_002,Green Tea Box 50s,3,190.0,484.5,15.0,UPI,CASH_32,South,Bengaluru,Beverages
+TXN_202401150405,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2346,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,4047.3,10.0,Cash,CASH_38,South,Bengaluru,Apparel
+TXN_202401150406,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7018,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,288.0,20.0,UPI,CASH_15,South,Bengaluru,Grocery
+TXN_202401150407,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7783,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1274.15,15.0,Debit Card,CASH_25,South,Bengaluru,Apparel
+TXN_202401150408,STORE_004,Hitec City Retail,2024-01-17,CUST_1434,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1197.0,0.0,UPI,CASH_41,South,Hyderabad,Electronics
+TXN_202401150409,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8681,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,912.0,5.0,Cash,CASH_42,South,Bengaluru,Beverages
+TXN_202401150410,STORE_002,Bandra West Flagship,2024-01-18,CUST_1515,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,6370.75,15.0,Debit Card,CASH_25,West,Mumbai,Apparel
+TXN_202401150411,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3999,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,942.3,10.0,Cash,CASH_24,South,Bengaluru,Home Goods
+TXN_202401150412,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7609,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1200.0,0.0,UPI,CASH_49,South,Bengaluru,Beverages
+TXN_202401150413,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6723,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1800.0,20.0,Credit Card,CASH_50,South,Bengaluru,Grocery
+TXN_202401150414,STORE_004,Hitec City Retail,2024-01-16,CUST_1620,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,719.2,20.0,Net Banking,CASH_36,South,Hyderabad,Electronics
+TXN_202401150415,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7851,SKU_BEV_002,Green Tea Box 50s,2,190.0,323.0,15.0,Net Banking,CASH_31,South,Bengaluru,Beverages
+TXN_202401150416,STORE_004,Hitec City Retail,2024-01-18,CUST_6626,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,3820.75,15.0,Credit Card,CASH_14,South,Hyderabad,Electronics
+TXN_202401150417,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6578,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,253.3,15.0,Credit Card,CASH_42,South,Bengaluru,Home Goods
+TXN_202401150418,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3574,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,379.95,15.0,Credit Card,CASH_41,South,Bengaluru,Home Goods
+TXN_202401150419,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9909,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1530.0,15.0,Cash,CASH_45,South,Bengaluru,Grocery
+TXN_202401150420,STORE_001,Indiranagar Metro,2024-01-17,CUST_1587,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1200.0,0.0,Credit Card,CASH_20,South,Bengaluru,Beverages
+TXN_202401150421,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_9608,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,506.6,15.0,Cash,CASH_44,South,Bengaluru,Home Goods
+TXN_202401150422,STORE_002,Bandra West Flagship,2024-01-17,CUST_8537,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,536.4,10.0,UPI,CASH_14,West,Mumbai,Home Goods
+TXN_202401150423,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7168,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,204.0,15.0,Cash,CASH_14,South,Bengaluru,Beverages
+TXN_202401150424,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5232,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1424.05,5.0,Cash,CASH_27,South,Bengaluru,Apparel
+TXN_202401150425,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_2318,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2398.4,20.0,UPI,CASH_20,South,Bengaluru,Apparel
+TXN_202401150426,STORE_005,Anna Nagar Central,2024-01-16,CUST_6824,SKU_BEV_002,Green Tea Box 50s,2,190.0,380.0,0.0,Debit Card,CASH_34,South,Chennai,Beverages
+TXN_202401150427,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2065,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1797.0,0.0,UPI,CASH_23,South,Bengaluru,Apparel
+TXN_202401150428,STORE_001,Indiranagar Metro,2024-01-16,CUST_3855,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,456.0,5.0,Cash,CASH_34,South,Bengaluru,Beverages
+TXN_202401150429,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5847,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1596.0,20.0,Cash,CASH_40,South,Bengaluru,Electronics
+TXN_202401150430,STORE_005,Anna Nagar Central,2024-01-18,CUST_3178,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,3596.0,20.0,Debit Card,CASH_21,South,Chennai,Electronics
+TXN_202401150431,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1566,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1282.5,5.0,Credit Card,CASH_16,South,Bengaluru,Grocery
+TXN_202401150432,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_3174,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,228.0,5.0,Cash,CASH_35,South,Bengaluru,Beverages
+TXN_202401150433,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1917,SKU_BEV_002,Green Tea Box 50s,2,190.0,342.0,10.0,Debit Card,CASH_17,South,Bengaluru,Beverages
+TXN_202401150434,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6560,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,204.0,15.0,Cash,CASH_39,South,Bengaluru,Beverages
+TXN_202401150435,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8712,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,596.0,20.0,Cash,CASH_18,South,Bengaluru,Home Goods
+TXN_202401150436,STORE_001,Indiranagar Metro,2024-01-16,CUST_4013,SKU_BEV_002,Green Tea Box 50s,2,190.0,342.0,10.0,Credit Card,CASH_10,South,Bengaluru,Beverages
+TXN_202401150437,STORE_001,Indiranagar Metro,2024-01-15,CUST_1331,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1199.2,20.0,Credit Card,CASH_42,South,Bengaluru,Apparel
+TXN_202401150438,STORE_003,Connaught Place,2024-01-18,CUST_8163,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1396.0,0.0,Credit Card,CASH_19,North,Delhi,Home Goods
+TXN_202401150439,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6347,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1080.0,10.0,Net Banking,CASH_17,South,Bengaluru,Beverages
+TXN_202401150440,STORE_002,Bandra West Flagship,2024-01-18,CUST_4307,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1198.0,0.0,Credit Card,CASH_17,West,Mumbai,Apparel
+TXN_202401150441,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5703,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,678.3,15.0,Debit Card,CASH_15,South,Bengaluru,Electronics
+TXN_202401150442,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4889,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,816.0,15.0,Net Banking,CASH_32,South,Bengaluru,Beverages
+TXN_202401150443,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7664,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,854.05,5.0,Cash,CASH_17,South,Bengaluru,Electronics
+TXN_202401150444,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9879,SKU_GROC_001,Basmati Rice 5kg,1,450.0,450.0,0.0,Credit Card,CASH_30,South,Bengaluru,Grocery
+TXN_202401150445,STORE_003,Connaught Place,2024-01-18,CUST_7884,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,153.0,15.0,Credit Card,CASH_19,North,Delhi,Grocery
+TXN_202401150446,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5672,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,707.75,5.0,UPI,CASH_47,South,Bengaluru,Home Goods
+TXN_202401150447,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5008,SKU_BEV_002,Green Tea Box 50s,2,190.0,380.0,0.0,Cash,CASH_27,South,Bengaluru,Beverages
+TXN_202401150448,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4368,SKU_GROC_001,Basmati Rice 5kg,2,450.0,900.0,0.0,Debit Card,CASH_15,South,Bengaluru,Grocery
+TXN_202401150449,STORE_005,Anna Nagar Central,2024-01-16,CUST_2728,SKU_BEV_002,Green Tea Box 50s,1,190.0,190.0,0.0,Debit Card,CASH_20,South,Chennai,Beverages
+TXN_202401150450,STORE_005,Anna Nagar Central,2024-01-16,CUST_2147,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1596.0,0.0,Credit Card,CASH_23,South,Chennai,Electronics
+TXN_202401150451,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6390,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1695.75,15.0,UPI,CASH_48,South,Bengaluru,Electronics
+TXN_202401150452,STORE_003,Connaught Place,2024-01-15,CUST_3637,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,180.0,0.0,Cash,CASH_13,North,Delhi,Grocery
+TXN_202401150453,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6932,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2396.0,0.0,Debit Card,CASH_17,South,Bengaluru,Apparel
+TXN_202401150454,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_1454,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1895.25,5.0,Debit Card,CASH_33,South,Bengaluru,Electronics
+TXN_202401150455,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8127,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1199.2,20.0,Debit Card,CASH_11,South,Bengaluru,Apparel
+TXN_202401150456,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5024,SKU_BEV_002,Green Tea Box 50s,2,190.0,304.0,20.0,Debit Card,CASH_45,South,Bengaluru,Beverages
+TXN_202401150457,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5924,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,7120.25,5.0,Credit Card,CASH_14,South,Bengaluru,Apparel
+TXN_202401150458,STORE_005,Anna Nagar Central,2024-01-18,CUST_2616,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,509.15,15.0,Debit Card,CASH_42,South,Chennai,Apparel
+TXN_202401150459,STORE_004,Hitec City Retail,2024-01-15,CUST_7886,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1440.0,20.0,Credit Card,CASH_31,South,Hyderabad,Grocery
+TXN_202401150460,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4480,SKU_BEV_002,Green Tea Box 50s,1,190.0,171.0,10.0,Net Banking,CASH_22,South,Bengaluru,Beverages
+TXN_202401150461,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_9020,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,648.0,10.0,Net Banking,CASH_12,South,Bengaluru,Beverages
+TXN_202401150462,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3698,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,6745.5,10.0,Net Banking,CASH_50,South,Bengaluru,Apparel
+TXN_202401150463,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6752,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2396.0,0.0,Debit Card,CASH_31,South,Bengaluru,Apparel
+TXN_202401150464,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_1460,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1483.25,15.0,Debit Card,CASH_28,South,Bengaluru,Home Goods
+TXN_202401150465,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5860,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1396.0,20.0,UPI,CASH_41,South,Bengaluru,Home Goods
+TXN_202401150466,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_9296,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,648.0,10.0,Debit Card,CASH_42,South,Bengaluru,Beverages
+TXN_202401150467,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4367,SKU_BEV_002,Green Tea Box 50s,2,190.0,304.0,20.0,UPI,CASH_27,South,Bengaluru,Beverages
+TXN_202401150468,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5426,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,288.0,20.0,Debit Card,CASH_32,South,Bengaluru,Grocery
+TXN_202401150469,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4520,SKU_BEV_002,Green Tea Box 50s,2,190.0,304.0,20.0,Credit Card,CASH_15,South,Bengaluru,Beverages
+TXN_202401150470,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4505,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1596.0,0.0,Credit Card,CASH_14,South,Bengaluru,Electronics
+TXN_202401150471,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5318,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,408.0,15.0,Net Banking,CASH_14,South,Bengaluru,Beverages
+TXN_202401150472,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_1369,SKU_BEV_002,Green Tea Box 50s,3,190.0,570.0,0.0,Credit Card,CASH_22,South,Bengaluru,Beverages
+TXN_202401150473,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5467,SKU_BEV_002,Green Tea Box 50s,2,190.0,361.0,5.0,Credit Card,CASH_46,South,Bengaluru,Beverages
+TXN_202401150474,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4338,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,360.0,0.0,Debit Card,CASH_24,South,Bengaluru,Grocery
+TXN_202401150475,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2459,SKU_GROC_001,Basmati Rice 5kg,1,450.0,450.0,0.0,Cash,CASH_29,South,Bengaluru,Grocery
+TXN_202401150476,STORE_001,Indiranagar Metro,2024-01-16,CUST_3864,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,279.2,20.0,Cash,CASH_48,South,Bengaluru,Home Goods
+TXN_202401150477,STORE_005,Anna Nagar Central,2024-01-16,CUST_4886,SKU_GROC_001,Basmati Rice 5kg,2,450.0,765.0,15.0,Debit Card,CASH_32,South,Chennai,Grocery
+TXN_202401150478,STORE_001,Indiranagar Metro,2024-01-16,CUST_1449,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,1,149.0,134.1,10.0,Cash,CASH_32,South,Bengaluru,Home Goods
+TXN_202401150479,STORE_003,Connaught Place,2024-01-16,CUST_5590,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2848.1,5.0,Net Banking,CASH_27,North,Delhi,Apparel
+TXN_202401150480,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7630,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2157.6,20.0,UPI,CASH_14,South,Bengaluru,Electronics
+TXN_202401150481,STORE_005,Anna Nagar Central,2024-01-16,CUST_2723,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,216.0,10.0,Debit Card,CASH_35,South,Chennai,Beverages
+TXN_202401150482,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6166,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1516.2,5.0,Debit Card,CASH_26,South,Bengaluru,Electronics
+TXN_202401150483,STORE_001,Indiranagar Metro,2024-01-18,CUST_9694,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1198.0,0.0,UPI,CASH_35,South,Bengaluru,Apparel
+TXN_202401150484,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9037,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1274.15,15.0,Credit Card,CASH_50,South,Bengaluru,Apparel
+TXN_202401150485,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4848,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,162.0,10.0,Debit Card,CASH_31,South,Bengaluru,Grocery
+TXN_202401150486,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2821,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,3056.6,15.0,Cash,CASH_15,South,Bengaluru,Electronics
+TXN_202401150487,STORE_005,Anna Nagar Central,2024-01-15,CUST_4839,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,540.0,0.0,Net Banking,CASH_49,South,Chennai,Grocery
+TXN_202401150488,STORE_003,Connaught Place,2024-01-17,CUST_3156,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2562.15,5.0,Cash,CASH_12,North,Delhi,Electronics
+TXN_202401150489,STORE_001,Indiranagar Metro,2024-01-15,CUST_4674,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,7495.0,0.0,Debit Card,CASH_41,South,Bengaluru,Apparel
+TXN_202401150490,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5506,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1349.1,10.0,Cash,CASH_30,South,Bengaluru,Apparel
+TXN_202401150491,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2318,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,486.0,10.0,Credit Card,CASH_20,South,Bengaluru,Grocery
+TXN_202401150492,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5658,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,486.0,10.0,Net Banking,CASH_30,South,Bengaluru,Grocery
+TXN_202401150493,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9688,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1912.5,15.0,UPI,CASH_35,South,Bengaluru,Grocery
+TXN_202401150494,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5590,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,3822.45,15.0,Debit Card,CASH_22,South,Bengaluru,Apparel
+TXN_202401150495,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7958,SKU_BEV_002,Green Tea Box 50s,4,190.0,646.0,15.0,UPI,CASH_32,South,Bengaluru,Beverages
+TXN_202401150496,STORE_005,Anna Nagar Central,2024-01-17,CUST_9631,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1912.5,15.0,Net Banking,CASH_41,South,Chennai,Grocery
+TXN_202401150497,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6755,SKU_BEV_002,Green Tea Box 50s,3,190.0,541.5,5.0,Net Banking,CASH_14,South,Bengaluru,Beverages
+TXN_202401150498,STORE_002,Bandra West Flagship,2024-01-16,CUST_5971,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2697.0,0.0,Cash,CASH_30,West,Mumbai,Electronics
+TXN_202401150499,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2088,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4495.0,0.0,Cash,CASH_47,South,Bengaluru,Electronics
+TXN_202401150500,STORE_002,Bandra West Flagship,2024-01-16,CUST_9869,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,238.4,20.0,Debit Card,CASH_19,West,Mumbai,Home Goods
+TXN_202401150501,STORE_002,Bandra West Flagship,2024-01-17,CUST_3178,SKU_BEV_002,Green Tea Box 50s,2,190.0,361.0,5.0,Cash,CASH_35,West,Mumbai,Beverages
+TXN_202401150502,STORE_002,Bandra West Flagship,2024-01-15,CUST_3118,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1200.0,0.0,Cash,CASH_18,West,Mumbai,Beverages
+TXN_202401150503,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3758,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1710.0,5.0,UPI,CASH_15,South,Bengaluru,Grocery
+TXN_202401150504,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4436,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,357.6,20.0,Credit Card,CASH_14,South,Bengaluru,Home Goods
+TXN_202401150505,STORE_004,Hitec City Retail,2024-01-17,CUST_8499,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1895.25,5.0,Credit Card,CASH_22,South,Hyderabad,Electronics
+TXN_202401150506,STORE_004,Hitec City Retail,2024-01-16,CUST_1313,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,2876.8,20.0,Net Banking,CASH_33,South,Hyderabad,Electronics
+TXN_202401150507,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8170,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1276.8,20.0,Net Banking,CASH_45,South,Bengaluru,Electronics
+TXN_202401150508,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4910,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4270.25,5.0,UPI,CASH_30,South,Bengaluru,Electronics
+TXN_202401150509,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9105,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,456.0,5.0,Credit Card,CASH_47,South,Bengaluru,Beverages
+TXN_202401150510,STORE_003,Connaught Place,2024-01-15,CUST_5701,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1657.75,5.0,Credit Card,CASH_49,North,Delhi,Home Goods
+TXN_202401150511,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9415,SKU_BEV_002,Green Tea Box 50s,5,190.0,807.5,15.0,Net Banking,CASH_32,South,Bengaluru,Beverages
+TXN_202401150512,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_3532,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,153.0,15.0,Credit Card,CASH_18,South,Bengaluru,Grocery
+TXN_202401150513,STORE_001,Indiranagar Metro,2024-01-17,CUST_1077,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4495.0,0.0,Cash,CASH_12,South,Bengaluru,Electronics
+TXN_202401150514,STORE_002,Bandra West Flagship,2024-01-15,CUST_9620,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1080.0,10.0,Credit Card,CASH_26,West,Mumbai,Beverages
+TXN_202401150515,STORE_001,Indiranagar Metro,2024-01-15,CUST_1667,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,3416.2,5.0,Cash,CASH_47,South,Bengaluru,Electronics
+TXN_202401150516,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2749,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,513.0,5.0,Net Banking,CASH_35,South,Bengaluru,Grocery
+TXN_202401150517,STORE_004,Hitec City Retail,2024-01-15,CUST_8523,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1707.15,5.0,Credit Card,CASH_11,South,Hyderabad,Apparel
+TXN_202401150518,STORE_005,Anna Nagar Central,2024-01-17,CUST_4726,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,153.0,15.0,UPI,CASH_15,South,Chennai,Grocery
+TXN_202401150519,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_1930,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,5096.6,15.0,UPI,CASH_21,South,Bengaluru,Apparel
+TXN_202401150520,STORE_005,Anna Nagar Central,2024-01-16,CUST_3257,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,476.8,20.0,UPI,CASH_14,South,Chennai,Home Goods
+TXN_202401150521,STORE_005,Anna Nagar Central,2024-01-16,CUST_3104,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,684.0,5.0,Credit Card,CASH_49,South,Chennai,Grocery
+TXN_202401150522,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9527,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1078.2,10.0,Credit Card,CASH_20,South,Bengaluru,Apparel
+TXN_202401150523,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9148,SKU_BEV_002,Green Tea Box 50s,2,190.0,323.0,15.0,Debit Card,CASH_15,South,Bengaluru,Beverages
+TXN_202401150524,STORE_002,Bandra West Flagship,2024-01-15,CUST_8057,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1695.75,15.0,Cash,CASH_28,West,Mumbai,Electronics
+TXN_202401150525,STORE_001,Indiranagar Metro,2024-01-17,CUST_8498,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,314.1,10.0,UPI,CASH_35,South,Bengaluru,Home Goods
+TXN_202401150526,STORE_005,Anna Nagar Central,2024-01-18,CUST_5515,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,720.0,20.0,Debit Card,CASH_40,South,Chennai,Grocery
+TXN_202401150527,STORE_004,Hitec City Retail,2024-01-15,CUST_5509,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,648.0,10.0,UPI,CASH_16,South,Hyderabad,Beverages
+TXN_202401150528,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6889,SKU_GROC_001,Basmati Rice 5kg,1,450.0,382.5,15.0,Cash,CASH_18,South,Bengaluru,Grocery
+TXN_202401150529,STORE_003,Connaught Place,2024-01-17,CUST_8536,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,480.0,0.0,Cash,CASH_10,North,Delhi,Beverages
+TXN_202401150530,STORE_001,Indiranagar Metro,2024-01-17,CUST_6930,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,180.0,0.0,Debit Card,CASH_23,South,Bengaluru,Grocery
+TXN_202401150531,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5603,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,432.0,10.0,Cash,CASH_42,South,Bengaluru,Beverages
+TXN_202401150532,STORE_002,Bandra West Flagship,2024-01-18,CUST_4245,SKU_BEV_002,Green Tea Box 50s,2,190.0,323.0,15.0,Cash,CASH_10,West,Mumbai,Beverages
+TXN_202401150533,STORE_005,Anna Nagar Central,2024-01-15,CUST_5188,SKU_BEV_002,Green Tea Box 50s,2,190.0,342.0,10.0,Net Banking,CASH_36,South,Chennai,Beverages
+TXN_202401150534,STORE_003,Connaught Place,2024-01-16,CUST_5978,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1199.2,20.0,UPI,CASH_31,North,Delhi,Apparel
+TXN_202401150535,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6737,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4270.25,5.0,Cash,CASH_39,South,Bengaluru,Electronics
+TXN_202401150536,STORE_005,Anna Nagar Central,2024-01-17,CUST_5082,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,798.0,0.0,Cash,CASH_38,South,Chennai,Electronics
+TXN_202401150537,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_3791,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,331.55,5.0,Credit Card,CASH_36,South,Bengaluru,Home Goods
+TXN_202401150538,STORE_005,Anna Nagar Central,2024-01-17,CUST_5536,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1186.6,15.0,Credit Card,CASH_48,South,Chennai,Home Goods
+TXN_202401150539,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1566,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,339.15,15.0,Credit Card,CASH_17,South,Bengaluru,Electronics
+TXN_202401150540,STORE_004,Hitec City Retail,2024-01-15,CUST_6244,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,638.4,20.0,Credit Card,CASH_38,South,Hyderabad,Electronics
+TXN_202401150541,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_3853,SKU_GROC_001,Basmati Rice 5kg,2,450.0,855.0,5.0,Debit Card,CASH_19,South,Bengaluru,Grocery
+TXN_202401150542,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1158,SKU_BEV_002,Green Tea Box 50s,4,190.0,722.0,5.0,Credit Card,CASH_28,South,Bengaluru,Beverages
+TXN_202401150543,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6960,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,379.05,5.0,Cash,CASH_34,South,Bengaluru,Electronics
+TXN_202401150544,STORE_005,Anna Nagar Central,2024-01-17,CUST_5364,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1708.1,5.0,Credit Card,CASH_21,South,Chennai,Electronics
+TXN_202401150545,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6097,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,764.15,15.0,Credit Card,CASH_31,South,Bengaluru,Electronics
+TXN_202401150546,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3250,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,768.0,20.0,Net Banking,CASH_15,South,Bengaluru,Beverages
+TXN_202401150547,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_9785,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,3596.0,20.0,Credit Card,CASH_40,South,Bengaluru,Electronics
+TXN_202401150548,STORE_003,Connaught Place,2024-01-15,CUST_6571,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2845.25,5.0,UPI,CASH_32,North,Delhi,Apparel
+TXN_202401150549,STORE_001,Indiranagar Metro,2024-01-18,CUST_1547,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,384.0,20.0,Cash,CASH_39,South,Bengaluru,Beverages
+TXN_202401150550,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2374,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,809.1,10.0,Debit Card,CASH_48,South,Bengaluru,Electronics
+TXN_202401150551,STORE_002,Bandra West Flagship,2024-01-16,CUST_9810,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1530.0,15.0,Net Banking,CASH_16,West,Mumbai,Grocery
+TXN_202401150552,STORE_001,Indiranagar Metro,2024-01-17,CUST_4492,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1020.0,15.0,Cash,CASH_37,South,Bengaluru,Beverages
+TXN_202401150553,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_2378,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,5096.6,15.0,Credit Card,CASH_21,South,Bengaluru,Apparel
+TXN_202401150554,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4374,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,1,149.0,149.0,0.0,UPI,CASH_37,South,Bengaluru,Home Goods
+TXN_202401150555,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5808,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1912.5,15.0,Debit Card,CASH_22,South,Bengaluru,Grocery
+TXN_202401150556,STORE_003,Connaught Place,2024-01-16,CUST_1062,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,960.0,0.0,Net Banking,CASH_16,North,Delhi,Beverages
+TXN_202401150557,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_9088,SKU_GROC_001,Basmati Rice 5kg,5,450.0,2137.5,5.0,Credit Card,CASH_27,South,Bengaluru,Grocery
+TXN_202401150558,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_3623,SKU_BEV_002,Green Tea Box 50s,4,190.0,646.0,15.0,Credit Card,CASH_25,South,Bengaluru,Beverages
+TXN_202401150559,STORE_005,Anna Nagar Central,2024-01-15,CUST_7352,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,3596.0,20.0,Cash,CASH_30,South,Chennai,Electronics
+TXN_202401150560,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2147,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,558.4,20.0,Debit Card,CASH_19,South,Bengaluru,Home Goods
+TXN_202401150561,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9733,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1995.0,0.0,UPI,CASH_17,South,Bengaluru,Electronics
+TXN_202401150562,STORE_001,Indiranagar Metro,2024-01-18,CUST_3447,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1695.75,15.0,Cash,CASH_34,South,Bengaluru,Electronics
+TXN_202401150563,STORE_005,Anna Nagar Central,2024-01-17,CUST_2993,SKU_BEV_002,Green Tea Box 50s,4,190.0,760.0,0.0,UPI,CASH_33,South,Chennai,Beverages
+TXN_202401150564,STORE_005,Anna Nagar Central,2024-01-16,CUST_9525,SKU_BEV_002,Green Tea Box 50s,5,190.0,950.0,0.0,Credit Card,CASH_45,South,Chennai,Beverages
+TXN_202401150565,STORE_004,Hitec City Retail,2024-01-16,CUST_9803,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,3820.75,15.0,Debit Card,CASH_10,South,Hyderabad,Electronics
+TXN_202401150566,STORE_001,Indiranagar Metro,2024-01-15,CUST_1542,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,994.65,5.0,UPI,CASH_22,South,Bengaluru,Home Goods
+TXN_202401150567,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6237,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,6745.5,10.0,Debit Card,CASH_19,South,Bengaluru,Apparel
+TXN_202401150568,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7117,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1276.8,20.0,Credit Card,CASH_23,South,Bengaluru,Electronics
+TXN_202401150569,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8385,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2396.0,20.0,Debit Card,CASH_27,South,Bengaluru,Apparel
+TXN_202401150570,STORE_001,Indiranagar Metro,2024-01-17,CUST_4294,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2545.75,15.0,Cash,CASH_42,South,Bengaluru,Apparel
+TXN_202401150571,STORE_001,Indiranagar Metro,2024-01-17,CUST_1082,SKU_BEV_002,Green Tea Box 50s,3,190.0,513.0,10.0,Net Banking,CASH_15,South,Bengaluru,Beverages
+TXN_202401150572,STORE_003,Connaught Place,2024-01-18,CUST_3543,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,576.0,20.0,Credit Card,CASH_29,North,Delhi,Beverages
+TXN_202401150573,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8479,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1618.2,10.0,UPI,CASH_44,South,Bengaluru,Electronics
+TXN_202401150574,STORE_001,Indiranagar Metro,2024-01-16,CUST_4811,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,719.2,20.0,Debit Card,CASH_18,South,Bengaluru,Electronics
+TXN_202401150575,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4438,SKU_GROC_001,Basmati Rice 5kg,5,450.0,2137.5,5.0,Cash,CASH_42,South,Bengaluru,Grocery
+TXN_202401150576,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8992,SKU_BEV_002,Green Tea Box 50s,3,190.0,541.5,5.0,Credit Card,CASH_19,South,Bengaluru,Beverages
+TXN_202401150577,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5188,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1424.05,5.0,Net Banking,CASH_23,South,Bengaluru,Apparel
+TXN_202401150578,STORE_003,Connaught Place,2024-01-16,CUST_2655,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,506.6,15.0,UPI,CASH_27,North,Delhi,Home Goods
+TXN_202401150579,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9318,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,349.0,0.0,UPI,CASH_22,South,Bengaluru,Home Goods
+TXN_202401150580,STORE_005,Anna Nagar Central,2024-01-16,CUST_7255,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1528.3,15.0,Cash,CASH_38,South,Chennai,Electronics
+TXN_202401150581,STORE_002,Bandra West Flagship,2024-01-17,CUST_1573,SKU_GROC_001,Basmati Rice 5kg,2,450.0,765.0,15.0,Credit Card,CASH_10,West,Mumbai,Grocery
+TXN_202401150582,STORE_004,Hitec City Retail,2024-01-16,CUST_4145,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1199.2,20.0,Net Banking,CASH_15,South,Hyderabad,Apparel
+TXN_202401150583,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9425,SKU_GROC_001,Basmati Rice 5kg,2,450.0,720.0,20.0,Debit Card,CASH_14,South,Bengaluru,Grocery
+TXN_202401150584,STORE_002,Bandra West Flagship,2024-01-17,CUST_2001,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1528.3,15.0,Cash,CASH_13,West,Mumbai,Electronics
+TXN_202401150585,STORE_003,Connaught Place,2024-01-18,CUST_9074,SKU_BEV_002,Green Tea Box 50s,2,190.0,380.0,0.0,Credit Card,CASH_29,North,Delhi,Beverages
+TXN_202401150586,STORE_003,Connaught Place,2024-01-17,CUST_4427,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,5096.6,15.0,Net Banking,CASH_42,North,Delhi,Apparel
+TXN_202401150587,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_3457,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1620.0,10.0,Cash,CASH_34,South,Bengaluru,Grocery
+TXN_202401150588,STORE_001,Indiranagar Metro,2024-01-16,CUST_5628,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1197.0,0.0,Net Banking,CASH_31,South,Bengaluru,Electronics
+TXN_202401150589,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_9794,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,912.0,5.0,Credit Card,CASH_28,South,Bengaluru,Beverages
+TXN_202401150590,STORE_004,Hitec City Retail,2024-01-17,CUST_2659,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,720.0,0.0,Cash,CASH_18,South,Hyderabad,Beverages
+TXN_202401150591,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_3323,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,349.0,0.0,Net Banking,CASH_22,South,Bengaluru,Home Goods
+TXN_202401150592,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5560,SKU_GROC_001,Basmati Rice 5kg,1,450.0,450.0,0.0,Cash,CASH_38,South,Bengaluru,Grocery
+TXN_202401150593,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7067,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2545.75,15.0,Credit Card,CASH_37,South,Bengaluru,Apparel
+TXN_202401150594,STORE_003,Connaught Place,2024-01-16,CUST_8247,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,2876.8,20.0,Net Banking,CASH_42,North,Delhi,Electronics
+TXN_202401150595,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3020,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,279.2,20.0,UPI,CASH_44,South,Bengaluru,Home Goods
+TXN_202401150596,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7222,SKU_BEV_002,Green Tea Box 50s,2,190.0,304.0,20.0,Debit Card,CASH_14,South,Bengaluru,Beverages
+TXN_202401150597,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5500,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1018.3,15.0,Credit Card,CASH_22,South,Bengaluru,Apparel
+TXN_202401150598,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6685,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,912.0,5.0,Credit Card,CASH_18,South,Bengaluru,Beverages
+TXN_202401150599,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6988,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1620.0,10.0,Cash,CASH_34,South,Bengaluru,Grocery
+TXN_202401150600,STORE_001,Indiranagar Metro,2024-01-16,CUST_1298,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1356.6,15.0,Debit Card,CASH_46,South,Bengaluru,Electronics
+TXN_202401150601,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4990,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,359.1,10.0,Debit Card,CASH_44,South,Bengaluru,Electronics
+TXN_202401150602,STORE_003,Connaught Place,2024-01-18,CUST_6383,SKU_BEV_002,Green Tea Box 50s,2,190.0,323.0,15.0,Cash,CASH_33,North,Delhi,Beverages
+TXN_202401150603,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7982,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,900.0,0.0,UPI,CASH_22,South,Bengaluru,Grocery
+TXN_202401150604,STORE_005,Anna Nagar Central,2024-01-17,CUST_1688,SKU_BEV_002,Green Tea Box 50s,2,190.0,323.0,15.0,Debit Card,CASH_32,South,Chennai,Beverages
+TXN_202401150605,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4754,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,432.0,20.0,Cash,CASH_50,South,Bengaluru,Grocery
+TXN_202401150606,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7227,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1695.75,15.0,Debit Card,CASH_31,South,Bengaluru,Electronics
+TXN_202401150607,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4792,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,513.0,5.0,Credit Card,CASH_46,South,Bengaluru,Grocery
+TXN_202401150608,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4313,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,506.6,15.0,Net Banking,CASH_18,South,Bengaluru,Home Goods
+TXN_202401150609,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_2797,SKU_BEV_002,Green Tea Box 50s,4,190.0,722.0,5.0,Net Banking,CASH_26,South,Bengaluru,Beverages
+TXN_202401150610,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4389,SKU_GROC_001,Basmati Rice 5kg,1,450.0,405.0,10.0,UPI,CASH_32,South,Bengaluru,Grocery
+TXN_202401150611,STORE_002,Bandra West Flagship,2024-01-17,CUST_2386,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,408.0,15.0,Credit Card,CASH_21,West,Mumbai,Beverages
+TXN_202401150612,STORE_005,Anna Nagar Central,2024-01-18,CUST_9084,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,558.4,20.0,Debit Card,CASH_21,South,Chennai,Home Goods
+TXN_202401150613,STORE_005,Anna Nagar Central,2024-01-16,CUST_1980,SKU_GROC_001,Basmati Rice 5kg,2,450.0,720.0,20.0,Net Banking,CASH_37,South,Chennai,Grocery
+TXN_202401150614,STORE_003,Connaught Place,2024-01-15,CUST_8321,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,240.0,0.0,UPI,CASH_33,North,Delhi,Beverages
+TXN_202401150615,STORE_005,Anna Nagar Central,2024-01-15,CUST_3022,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,745.0,0.0,UPI,CASH_26,South,Chennai,Home Goods
+TXN_202401150616,STORE_004,Hitec City Retail,2024-01-16,CUST_3771,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,798.0,0.0,UPI,CASH_19,South,Hyderabad,Electronics
+TXN_202401150617,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3088,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1215.0,10.0,UPI,CASH_13,South,Bengaluru,Grocery
+TXN_202401150618,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5529,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,319.2,20.0,Credit Card,CASH_13,South,Bengaluru,Electronics
+TXN_202401150619,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3434,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1020.0,15.0,Debit Card,CASH_41,South,Bengaluru,Beverages
+TXN_202401150620,STORE_005,Anna Nagar Central,2024-01-18,CUST_4816,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,6745.5,10.0,Credit Card,CASH_13,South,Chennai,Apparel
+TXN_202401150621,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_8257,SKU_GROC_001,Basmati Rice 5kg,5,450.0,2250.0,0.0,Cash,CASH_36,South,Bengaluru,Grocery
+TXN_202401150622,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8893,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,758.1,5.0,UPI,CASH_30,South,Bengaluru,Electronics
+TXN_202401150623,STORE_004,Hitec City Retail,2024-01-16,CUST_9700,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1018.3,15.0,Cash,CASH_28,South,Hyderabad,Apparel
+TXN_202401150624,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9555,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,424.65,5.0,Cash,CASH_26,South,Bengaluru,Home Goods
+TXN_202401150625,STORE_002,Bandra West Flagship,2024-01-16,CUST_6366,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,596.0,0.0,UPI,CASH_45,West,Mumbai,Home Goods
+TXN_202401150626,STORE_004,Hitec City Retail,2024-01-17,CUST_9191,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,1,149.0,134.1,10.0,UPI,CASH_43,South,Hyderabad,Home Goods
+TXN_202401150627,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1165,SKU_BEV_002,Green Tea Box 50s,5,190.0,855.0,10.0,Cash,CASH_45,South,Bengaluru,Beverages
+TXN_202401150628,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8354,SKU_BEV_002,Green Tea Box 50s,2,190.0,304.0,20.0,Net Banking,CASH_10,South,Bengaluru,Beverages
+TXN_202401150629,STORE_003,Connaught Place,2024-01-17,CUST_7887,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,612.0,15.0,Credit Card,CASH_46,North,Delhi,Beverages
+TXN_202401150630,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6013,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,599.0,0.0,UPI,CASH_24,South,Bengaluru,Apparel
+TXN_202401150631,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6442,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,4796.8,20.0,Debit Card,CASH_20,South,Bengaluru,Apparel
+TXN_202401150632,STORE_004,Hitec City Retail,2024-01-15,CUST_3915,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,360.0,0.0,Credit Card,CASH_50,South,Hyderabad,Grocery
+TXN_202401150633,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6974,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,7495.0,0.0,Debit Card,CASH_30,South,Bengaluru,Apparel
+TXN_202401150634,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4489,SKU_BEV_002,Green Tea Box 50s,1,190.0,190.0,0.0,Cash,CASH_49,South,Bengaluru,Beverages
+TXN_202401150635,STORE_001,Indiranagar Metro,2024-01-18,CUST_4914,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,633.25,15.0,Net Banking,CASH_23,South,Bengaluru,Home Goods
+TXN_202401150636,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5495,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,476.8,20.0,Net Banking,CASH_19,South,Bengaluru,Home Goods
+TXN_202401150637,STORE_003,Connaught Place,2024-01-15,CUST_9746,SKU_BEV_002,Green Tea Box 50s,5,190.0,760.0,20.0,Credit Card,CASH_43,North,Delhi,Beverages
+TXN_202401150638,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7889,SKU_GROC_001,Basmati Rice 5kg,5,450.0,2137.5,5.0,Cash,CASH_26,South,Bengaluru,Grocery
+TXN_202401150639,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7598,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,576.0,20.0,Debit Card,CASH_21,South,Bengaluru,Grocery
+TXN_202401150640,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9153,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,720.0,20.0,Cash,CASH_19,South,Bengaluru,Grocery
+TXN_202401150641,STORE_002,Bandra West Flagship,2024-01-15,CUST_8354,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2698.2,10.0,Net Banking,CASH_44,West,Mumbai,Apparel
+TXN_202401150642,STORE_001,Indiranagar Metro,2024-01-15,CUST_4704,SKU_BEV_002,Green Tea Box 50s,4,190.0,684.0,10.0,UPI,CASH_26,South,Bengaluru,Beverages
+TXN_202401150643,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6477,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,171.0,5.0,Debit Card,CASH_28,South,Bengaluru,Grocery
+TXN_202401150644,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_3874,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,663.1,5.0,Cash,CASH_20,South,Bengaluru,Home Goods
+TXN_202401150645,STORE_002,Bandra West Flagship,2024-01-16,CUST_9234,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1186.6,15.0,Debit Card,CASH_33,West,Mumbai,Home Goods
+TXN_202401150646,STORE_001,Indiranagar Metro,2024-01-17,CUST_3240,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,4272.15,5.0,Debit Card,CASH_12,South,Bengaluru,Apparel
+TXN_202401150647,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8467,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,994.65,5.0,UPI,CASH_11,South,Bengaluru,Home Goods
+TXN_202401150648,STORE_002,Bandra West Flagship,2024-01-17,CUST_2311,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1528.3,15.0,Credit Card,CASH_26,West,Mumbai,Electronics
+TXN_202401150649,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6884,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2157.6,20.0,Debit Card,CASH_34,South,Bengaluru,Electronics
+TXN_202401150650,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4599,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4270.25,5.0,Debit Card,CASH_34,South,Bengaluru,Electronics
+TXN_202401150651,STORE_002,Bandra West Flagship,2024-01-15,CUST_4342,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,612.0,15.0,Cash,CASH_21,West,Mumbai,Beverages
+TXN_202401150652,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5695,SKU_BEV_002,Green Tea Box 50s,5,190.0,760.0,20.0,Credit Card,CASH_32,South,Bengaluru,Beverages
+TXN_202401150653,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_9063,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,612.0,15.0,Debit Card,CASH_40,South,Bengaluru,Grocery
+TXN_202401150654,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8675,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,768.0,20.0,Credit Card,CASH_20,South,Bengaluru,Beverages
+TXN_202401150655,STORE_005,Anna Nagar Central,2024-01-18,CUST_2740,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,698.0,0.0,Debit Card,CASH_23,South,Chennai,Home Goods
+TXN_202401150656,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1630,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,331.55,5.0,Cash,CASH_41,South,Bengaluru,Home Goods
+TXN_202401150657,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7670,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1018.3,15.0,Credit Card,CASH_34,South,Bengaluru,Apparel
+TXN_202401150658,STORE_001,Indiranagar Metro,2024-01-15,CUST_8094,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2157.6,20.0,Net Banking,CASH_45,South,Bengaluru,Electronics
+TXN_202401150659,STORE_004,Hitec City Retail,2024-01-15,CUST_3003,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1527.45,15.0,Credit Card,CASH_36,South,Hyderabad,Apparel
+TXN_202401150660,STORE_001,Indiranagar Metro,2024-01-17,CUST_8081,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,459.0,15.0,Debit Card,CASH_49,South,Bengaluru,Grocery
+TXN_202401150661,STORE_004,Hitec City Retail,2024-01-17,CUST_6795,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,558.4,20.0,Credit Card,CASH_47,South,Hyderabad,Home Goods
+TXN_202401150662,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6985,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,889.95,15.0,Net Banking,CASH_23,South,Bengaluru,Home Goods
+TXN_202401150663,STORE_003,Connaught Place,2024-01-18,CUST_1897,SKU_BEV_002,Green Tea Box 50s,2,190.0,361.0,5.0,UPI,CASH_27,North,Delhi,Beverages
+TXN_202401150664,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4483,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4495.0,0.0,UPI,CASH_47,South,Bengaluru,Electronics
+TXN_202401150665,STORE_005,Anna Nagar Central,2024-01-17,CUST_1979,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2995.0,0.0,UPI,CASH_40,South,Chennai,Apparel
+TXN_202401150666,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_9058,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,957.6,20.0,UPI,CASH_10,South,Bengaluru,Electronics
+TXN_202401150667,STORE_005,Anna Nagar Central,2024-01-15,CUST_2497,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,339.15,15.0,Debit Card,CASH_22,South,Chennai,Electronics
+TXN_202401150668,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_2324,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,854.05,5.0,Net Banking,CASH_29,South,Bengaluru,Electronics
+TXN_202401150669,STORE_004,Hitec City Retail,2024-01-16,CUST_7046,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,1,149.0,149.0,0.0,Net Banking,CASH_21,South,Hyderabad,Home Goods
+TXN_202401150670,STORE_003,Connaught Place,2024-01-17,CUST_4368,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1200.0,0.0,Cash,CASH_28,North,Delhi,Beverages
+TXN_202401150671,STORE_003,Connaught Place,2024-01-15,CUST_5642,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1147.5,15.0,UPI,CASH_46,North,Delhi,Grocery
+TXN_202401150672,STORE_004,Hitec City Retail,2024-01-15,CUST_2896,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2396.0,20.0,Debit Card,CASH_50,South,Hyderabad,Apparel
+TXN_202401150673,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6726,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1020.0,15.0,Debit Card,CASH_37,South,Bengaluru,Beverages
+TXN_202401150674,STORE_002,Bandra West Flagship,2024-01-18,CUST_6209,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,331.55,5.0,Cash,CASH_15,West,Mumbai,Home Goods
+TXN_202401150675,STORE_005,Anna Nagar Central,2024-01-15,CUST_1751,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,612.0,15.0,UPI,CASH_34,South,Chennai,Beverages
+TXN_202401150676,STORE_001,Indiranagar Metro,2024-01-18,CUST_7710,SKU_GROC_001,Basmati Rice 5kg,2,450.0,765.0,15.0,Credit Card,CASH_44,South,Bengaluru,Grocery
+TXN_202401150677,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9294,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1140.0,5.0,Net Banking,CASH_39,South,Bengaluru,Beverages
+TXN_202401150678,STORE_005,Anna Nagar Central,2024-01-16,CUST_2104,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1077.3,10.0,Credit Card,CASH_28,South,Chennai,Electronics
+TXN_202401150679,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_8237,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,719.2,20.0,Net Banking,CASH_47,South,Bengaluru,Electronics
+TXN_202401150680,STORE_005,Anna Nagar Central,2024-01-16,CUST_1710,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,268.2,10.0,Net Banking,CASH_49,South,Chennai,Home Goods
+TXN_202401150681,STORE_003,Connaught Place,2024-01-15,CUST_1564,SKU_GROC_001,Basmati Rice 5kg,5,450.0,2025.0,10.0,Debit Card,CASH_45,North,Delhi,Grocery
+TXN_202401150682,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1686,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2036.6,15.0,Cash,CASH_19,South,Bengaluru,Apparel
+TXN_202401150683,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6081,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,1047.0,0.0,Cash,CASH_35,South,Bengaluru,Home Goods
+TXN_202401150684,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6144,SKU_BEV_002,Green Tea Box 50s,5,190.0,950.0,0.0,Net Banking,CASH_31,South,Bengaluru,Beverages
+TXN_202401150685,STORE_004,Hitec City Retail,2024-01-17,CUST_6913,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,4272.15,5.0,UPI,CASH_47,South,Hyderabad,Apparel
+TXN_202401150686,STORE_001,Indiranagar Metro,2024-01-18,CUST_9667,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4045.5,10.0,Credit Card,CASH_41,South,Bengaluru,Electronics
+TXN_202401150687,STORE_004,Hitec City Retail,2024-01-15,CUST_3963,SKU_GROC_001,Basmati Rice 5kg,2,450.0,765.0,15.0,Cash,CASH_46,South,Hyderabad,Grocery
+TXN_202401150688,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7143,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,6745.5,10.0,UPI,CASH_17,South,Bengaluru,Apparel
+TXN_202401150689,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2043,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,596.0,0.0,Credit Card,CASH_30,South,Bengaluru,Home Goods
+TXN_202401150690,STORE_004,Hitec City Retail,2024-01-18,CUST_7798,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,576.0,20.0,Cash,CASH_43,South,Hyderabad,Beverages
+TXN_202401150691,STORE_003,Connaught Place,2024-01-18,CUST_1582,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,486.0,10.0,Cash,CASH_11,North,Delhi,Grocery
+TXN_202401150692,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2021,SKU_BEV_002,Green Tea Box 50s,4,190.0,684.0,10.0,Debit Card,CASH_33,South,Bengaluru,Beverages
+TXN_202401150693,STORE_001,Indiranagar Metro,2024-01-15,CUST_3761,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,684.0,5.0,UPI,CASH_31,South,Bengaluru,Grocery
+TXN_202401150694,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9079,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,349.0,0.0,Debit Card,CASH_49,South,Bengaluru,Home Goods
+TXN_202401150695,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7535,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,648.0,10.0,Net Banking,CASH_41,South,Bengaluru,Beverages
+TXN_202401150696,STORE_004,Hitec City Retail,2024-01-17,CUST_3646,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2562.15,5.0,Cash,CASH_49,South,Hyderabad,Electronics
+TXN_202401150697,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5632,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2545.75,15.0,UPI,CASH_38,South,Bengaluru,Apparel
+TXN_202401150698,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1066,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4495.0,0.0,Net Banking,CASH_21,South,Bengaluru,Electronics
+TXN_202401150699,STORE_004,Hitec City Retail,2024-01-17,CUST_6103,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1745.0,0.0,UPI,CASH_44,South,Hyderabad,Home Goods
+TXN_202401150700,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6428,SKU_BEV_002,Green Tea Box 50s,3,190.0,484.5,15.0,Credit Card,CASH_13,South,Bengaluru,Beverages
+TXN_202401150701,STORE_003,Connaught Place,2024-01-18,CUST_6707,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1438.4,20.0,Credit Card,CASH_50,North,Delhi,Electronics
+TXN_202401150702,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6472,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,216.0,10.0,UPI,CASH_18,South,Bengaluru,Beverages
+TXN_202401150703,STORE_001,Indiranagar Metro,2024-01-15,CUST_3961,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,684.0,5.0,Net Banking,CASH_13,South,Bengaluru,Beverages
+TXN_202401150704,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5696,SKU_GROC_001,Basmati Rice 5kg,2,450.0,900.0,0.0,Credit Card,CASH_30,South,Bengaluru,Grocery
+TXN_202401150705,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4730,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,447.0,0.0,Debit Card,CASH_40,South,Bengaluru,Home Goods
+TXN_202401150706,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7476,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1912.5,15.0,Debit Card,CASH_44,South,Bengaluru,Grocery
+TXN_202401150707,STORE_005,Anna Nagar Central,2024-01-16,CUST_9896,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,720.0,20.0,Debit Card,CASH_37,South,Chennai,Grocery
+TXN_202401150708,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7358,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,566.2,5.0,Debit Card,CASH_44,South,Bengaluru,Home Goods
+TXN_202401150709,STORE_004,Hitec City Retail,2024-01-16,CUST_3006,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,1,149.0,134.1,10.0,UPI,CASH_15,South,Hyderabad,Home Goods
+TXN_202401150710,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9532,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,349.0,0.0,Debit Card,CASH_13,South,Bengaluru,Home Goods
+TXN_202401150711,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_8849,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,593.3,15.0,Credit Card,CASH_26,South,Bengaluru,Home Goods
+TXN_202401150712,STORE_003,Connaught Place,2024-01-18,CUST_6506,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,718.2,10.0,UPI,CASH_10,North,Delhi,Electronics
+TXN_202401150713,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_3052,SKU_GROC_001,Basmati Rice 5kg,1,450.0,427.5,5.0,Debit Card,CASH_41,South,Bengaluru,Grocery
+TXN_202401150714,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_1350,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,1,149.0,141.55,5.0,UPI,CASH_42,South,Bengaluru,Home Goods
+TXN_202401150715,STORE_004,Hitec City Retail,2024-01-18,CUST_1489,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1199.2,20.0,Credit Card,CASH_36,South,Hyderabad,Apparel
+TXN_202401150716,STORE_001,Indiranagar Metro,2024-01-18,CUST_9254,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2398.4,20.0,Net Banking,CASH_14,South,Bengaluru,Apparel
+TXN_202401150717,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6156,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1356.6,15.0,Net Banking,CASH_34,South,Bengaluru,Electronics
+TXN_202401150718,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3662,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,809.1,10.0,UPI,CASH_48,South,Bengaluru,Electronics
+TXN_202401150719,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4494,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,638.4,20.0,Cash,CASH_22,South,Bengaluru,Electronics
+TXN_202401150720,STORE_003,Connaught Place,2024-01-15,CUST_3377,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,684.0,5.0,Debit Card,CASH_11,North,Delhi,Grocery
+TXN_202401150721,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5719,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,960.0,20.0,Credit Card,CASH_21,South,Bengaluru,Beverages
+TXN_202401150722,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9406,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,576.0,20.0,Credit Card,CASH_21,South,Bengaluru,Grocery
+TXN_202401150723,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4868,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1795.5,10.0,Credit Card,CASH_47,South,Bengaluru,Electronics
+TXN_202401150724,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_8066,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1396.0,0.0,Debit Card,CASH_38,South,Bengaluru,Home Goods
+TXN_202401150725,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_9177,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,6370.75,15.0,UPI,CASH_17,South,Bengaluru,Apparel
+TXN_202401150726,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9637,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,379.05,5.0,Cash,CASH_12,South,Bengaluru,Electronics
+TXN_202401150727,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2598,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,958.4,20.0,Credit Card,CASH_44,South,Bengaluru,Apparel
+TXN_202401150728,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5648,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,153.0,15.0,Credit Card,CASH_16,South,Bengaluru,Grocery
+TXN_202401150729,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4636,SKU_BEV_002,Green Tea Box 50s,4,190.0,722.0,5.0,Net Banking,CASH_10,South,Bengaluru,Beverages
+TXN_202401150730,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5711,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,306.0,15.0,Credit Card,CASH_11,South,Bengaluru,Grocery
+TXN_202401150731,STORE_005,Anna Nagar Central,2024-01-17,CUST_4087,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,459.0,15.0,Cash,CASH_30,South,Chennai,Grocery
+TXN_202401150732,STORE_003,Connaught Place,2024-01-17,CUST_2949,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1199.2,20.0,Net Banking,CASH_12,North,Delhi,Apparel
+TXN_202401150733,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7256,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,1,149.0,119.2,20.0,Net Banking,CASH_21,South,Bengaluru,Home Goods
+TXN_202401150734,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8840,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1570.5,10.0,Cash,CASH_12,South,Bengaluru,Home Goods
+TXN_202401150735,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7211,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1483.25,15.0,Net Banking,CASH_29,South,Bengaluru,Home Goods
+TXN_202401150736,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_9932,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1078.2,10.0,Cash,CASH_39,South,Bengaluru,Apparel
+TXN_202401150737,STORE_005,Anna Nagar Central,2024-01-15,CUST_1361,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,960.0,20.0,UPI,CASH_19,South,Chennai,Beverages
+TXN_202401150738,STORE_004,Hitec City Retail,2024-01-18,CUST_1486,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1745.0,0.0,Debit Card,CASH_21,South,Hyderabad,Home Goods
+TXN_202401150739,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4754,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1276.8,20.0,UPI,CASH_28,South,Bengaluru,Electronics
+TXN_202401150740,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7703,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,648.0,10.0,Debit Card,CASH_19,South,Bengaluru,Grocery
+TXN_202401150741,STORE_004,Hitec City Retail,2024-01-16,CUST_7825,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,758.1,5.0,Cash,CASH_13,South,Hyderabad,Electronics
+TXN_202401150742,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_1302,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,718.2,10.0,Net Banking,CASH_18,South,Bengaluru,Electronics
+TXN_202401150743,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8986,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,204.0,15.0,Net Banking,CASH_26,South,Bengaluru,Beverages
+TXN_202401150744,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4729,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,663.1,5.0,Net Banking,CASH_37,South,Bengaluru,Home Goods
+TXN_202401150745,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6818,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1424.05,5.0,UPI,CASH_49,South,Bengaluru,Apparel
+TXN_202401150746,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_9859,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,3236.4,10.0,Debit Card,CASH_26,South,Bengaluru,Electronics
+TXN_202401150747,STORE_004,Hitec City Retail,2024-01-17,CUST_8586,SKU_BEV_002,Green Tea Box 50s,2,190.0,361.0,5.0,Cash,CASH_23,South,Hyderabad,Beverages
+TXN_202401150748,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6306,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,612.0,15.0,Cash,CASH_21,South,Bengaluru,Beverages
+TXN_202401150749,STORE_003,Connaught Place,2024-01-18,CUST_6646,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1138.1,5.0,Debit Card,CASH_16,North,Delhi,Apparel
+TXN_202401150750,STORE_004,Hitec City Retail,2024-01-16,CUST_3442,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,324.0,10.0,UPI,CASH_35,South,Hyderabad,Grocery
+TXN_202401150751,STORE_001,Indiranagar Metro,2024-01-17,CUST_8440,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,810.0,10.0,Credit Card,CASH_23,South,Bengaluru,Grocery
+TXN_202401150752,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6409,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,408.0,15.0,UPI,CASH_32,South,Bengaluru,Beverages
+TXN_202401150753,STORE_005,Anna Nagar Central,2024-01-16,CUST_4999,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1199.2,20.0,Debit Card,CASH_11,South,Chennai,Apparel
+TXN_202401150754,STORE_003,Connaught Place,2024-01-16,CUST_5325,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1424.05,5.0,UPI,CASH_20,North,Delhi,Apparel
+TXN_202401150755,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5649,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,698.0,0.0,Debit Card,CASH_43,South,Bengaluru,Home Goods
+TXN_202401150756,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_1302,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,408.0,15.0,Debit Card,CASH_33,South,Bengaluru,Beverages
+TXN_202401150757,STORE_002,Bandra West Flagship,2024-01-15,CUST_4483,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,718.2,10.0,Credit Card,CASH_16,West,Mumbai,Electronics
+TXN_202401150758,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1116,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,283.1,5.0,UPI,CASH_28,South,Bengaluru,Home Goods
+TXN_202401150759,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_1888,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,663.1,5.0,Cash,CASH_26,South,Bengaluru,Home Goods
+TXN_202401150760,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2873,SKU_BEV_002,Green Tea Box 50s,4,190.0,646.0,15.0,Net Banking,CASH_11,South,Bengaluru,Beverages
+TXN_202401150761,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7613,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,816.0,15.0,Debit Card,CASH_25,South,Bengaluru,Beverages
+TXN_202401150762,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1023,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,633.25,15.0,Debit Card,CASH_32,South,Bengaluru,Home Goods
+TXN_202401150763,STORE_002,Bandra West Flagship,2024-01-15,CUST_9040,SKU_GROC_001,Basmati Rice 5kg,2,450.0,855.0,5.0,Credit Card,CASH_16,West,Mumbai,Grocery
+TXN_202401150764,STORE_002,Bandra West Flagship,2024-01-16,CUST_1259,SKU_BEV_002,Green Tea Box 50s,1,190.0,180.5,5.0,Debit Card,CASH_31,West,Mumbai,Beverages
+TXN_202401150765,STORE_005,Anna Nagar Central,2024-01-15,CUST_2825,SKU_GROC_001,Basmati Rice 5kg,2,450.0,900.0,0.0,Net Banking,CASH_26,South,Chennai,Grocery
+TXN_202401150766,STORE_004,Hitec City Retail,2024-01-17,CUST_9583,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1436.4,10.0,UPI,CASH_15,South,Hyderabad,Electronics
+TXN_202401150767,STORE_004,Hitec City Retail,2024-01-17,CUST_5821,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,707.75,5.0,Credit Card,CASH_39,South,Hyderabad,Home Goods
+TXN_202401150768,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5813,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1528.3,15.0,Net Banking,CASH_43,South,Bengaluru,Electronics
+TXN_202401150769,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6742,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1800.0,0.0,Debit Card,CASH_44,South,Bengaluru,Grocery
+TXN_202401150770,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1294,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,171.0,5.0,Debit Card,CASH_49,South,Bengaluru,Grocery
+TXN_202401150771,STORE_005,Anna Nagar Central,2024-01-15,CUST_9008,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,342.0,5.0,Net Banking,CASH_25,South,Chennai,Grocery
+TXN_202401150772,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9924,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,576.0,20.0,Debit Card,CASH_32,South,Bengaluru,Beverages
+TXN_202401150773,STORE_004,Hitec City Retail,2024-01-17,CUST_1733,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,238.4,20.0,Net Banking,CASH_44,South,Hyderabad,Home Goods
+TXN_202401150774,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7817,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1396.0,20.0,Cash,CASH_10,South,Bengaluru,Home Goods
+TXN_202401150775,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6959,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1620.0,10.0,Debit Card,CASH_22,South,Bengaluru,Grocery
+TXN_202401150776,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8410,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,360.0,0.0,Cash,CASH_32,South,Bengaluru,Grocery
+TXN_202401150777,STORE_001,Indiranagar Metro,2024-01-16,CUST_5413,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,408.0,15.0,Net Banking,CASH_30,South,Bengaluru,Beverages
+TXN_202401150778,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2289,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2545.75,15.0,Cash,CASH_46,South,Bengaluru,Apparel
+TXN_202401150779,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7749,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1618.2,10.0,Cash,CASH_40,South,Bengaluru,Electronics
+TXN_202401150780,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6205,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,360.0,0.0,Net Banking,CASH_15,South,Bengaluru,Grocery
+TXN_202401150781,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_1758,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,144.0,20.0,UPI,CASH_33,South,Bengaluru,Grocery
+TXN_202401150782,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4713,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1657.75,5.0,UPI,CASH_10,South,Bengaluru,Home Goods
+TXN_202401150783,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1621,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,958.4,20.0,UPI,CASH_36,South,Bengaluru,Apparel
+TXN_202401150784,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6597,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,240.0,0.0,Cash,CASH_45,South,Bengaluru,Beverages
+TXN_202401150785,STORE_001,Indiranagar Metro,2024-01-17,CUST_8170,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1912.5,15.0,UPI,CASH_29,South,Bengaluru,Grocery
+TXN_202401150786,STORE_002,Bandra West Flagship,2024-01-16,CUST_4569,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1077.3,10.0,Net Banking,CASH_46,West,Mumbai,Electronics
+TXN_202401150787,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7868,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1620.0,10.0,Debit Card,CASH_10,South,Bengaluru,Grocery
+TXN_202401150788,STORE_004,Hitec City Retail,2024-01-15,CUST_8567,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1912.5,15.0,Net Banking,CASH_28,South,Hyderabad,Grocery
+TXN_202401150789,STORE_004,Hitec City Retail,2024-01-17,CUST_8011,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1437.6,20.0,Net Banking,CASH_24,South,Hyderabad,Apparel
+TXN_202401150790,STORE_004,Hitec City Retail,2024-01-16,CUST_2624,SKU_BEV_002,Green Tea Box 50s,4,190.0,646.0,15.0,UPI,CASH_24,South,Hyderabad,Beverages
+TXN_202401150791,STORE_004,Hitec City Retail,2024-01-15,CUST_9321,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,360.0,0.0,Cash,CASH_33,South,Hyderabad,Grocery
+TXN_202401150792,STORE_001,Indiranagar Metro,2024-01-17,CUST_9840,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,2,149.0,253.3,15.0,Cash,CASH_26,South,Bengaluru,Home Goods
+TXN_202401150793,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7174,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,576.0,20.0,Debit Card,CASH_43,South,Bengaluru,Beverages
+TXN_202401150794,STORE_003,Connaught Place,2024-01-17,CUST_9321,SKU_BEV_002,Green Tea Box 50s,3,190.0,484.5,15.0,Cash,CASH_42,North,Delhi,Beverages
+TXN_202401150795,STORE_003,Connaught Place,2024-01-17,CUST_6232,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,648.0,10.0,Cash,CASH_39,North,Delhi,Beverages
+TXN_202401150796,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2449,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,1047.0,0.0,Credit Card,CASH_23,South,Bengaluru,Home Goods
+TXN_202401150797,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4744,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1276.8,20.0,Net Banking,CASH_10,South,Bengaluru,Electronics
+TXN_202401150798,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8201,SKU_BEV_002,Green Tea Box 50s,4,190.0,760.0,0.0,Debit Card,CASH_36,South,Bengaluru,Beverages
+TXN_202401150799,STORE_002,Bandra West Flagship,2024-01-15,CUST_5992,SKU_GROC_001,Basmati Rice 5kg,5,450.0,2025.0,10.0,UPI,CASH_49,West,Mumbai,Grocery
+TXN_202401150800,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8243,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1800.0,20.0,Net Banking,CASH_11,South,Bengaluru,Grocery
+TXN_202401150801,STORE_004,Hitec City Retail,2024-01-15,CUST_1478,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,153.0,15.0,Credit Card,CASH_48,South,Hyderabad,Grocery
+TXN_202401150802,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7602,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,228.0,5.0,UPI,CASH_36,South,Bengaluru,Beverages
+TXN_202401150803,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1049,SKU_BEV_002,Green Tea Box 50s,5,190.0,950.0,0.0,Debit Card,CASH_46,South,Bengaluru,Beverages
+TXN_202401150804,STORE_003,Connaught Place,2024-01-17,CUST_3820,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1138.1,5.0,Credit Card,CASH_44,North,Delhi,Apparel
+TXN_202401150805,STORE_004,Hitec City Retail,2024-01-16,CUST_8042,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1436.4,10.0,UPI,CASH_22,South,Hyderabad,Electronics
+TXN_202401150806,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_2184,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,719.2,20.0,Credit Card,CASH_10,South,Bengaluru,Electronics
+TXN_202401150807,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3394,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,3820.75,15.0,UPI,CASH_15,South,Bengaluru,Electronics
+TXN_202401150808,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8301,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1710.0,5.0,Debit Card,CASH_17,South,Bengaluru,Grocery
+TXN_202401150809,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_3858,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1282.5,5.0,Cash,CASH_13,South,Bengaluru,Grocery
+TXN_202401150810,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6472,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,1,149.0,119.2,20.0,Credit Card,CASH_48,South,Bengaluru,Home Goods
+TXN_202401150811,STORE_004,Hitec City Retail,2024-01-15,CUST_5080,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1800.0,20.0,Credit Card,CASH_20,South,Hyderabad,Grocery
+TXN_202401150812,STORE_001,Indiranagar Metro,2024-01-18,CUST_9782,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,539.1,10.0,Net Banking,CASH_20,South,Bengaluru,Apparel
+TXN_202401150813,STORE_002,Bandra West Flagship,2024-01-15,CUST_4872,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1800.0,20.0,UPI,CASH_43,West,Mumbai,Grocery
+TXN_202401150814,STORE_002,Bandra West Flagship,2024-01-16,CUST_2296,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1018.3,15.0,UPI,CASH_21,West,Mumbai,Apparel
+TXN_202401150815,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3775,SKU_BEV_002,Green Tea Box 50s,5,190.0,760.0,20.0,Cash,CASH_33,South,Bengaluru,Beverages
+TXN_202401150816,STORE_005,Anna Nagar Central,2024-01-15,CUST_6427,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1620.0,10.0,UPI,CASH_41,South,Chennai,Grocery
+TXN_202401150817,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_9937,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,889.95,15.0,Net Banking,CASH_18,South,Bengaluru,Home Goods
+TXN_202401150818,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4614,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1077.3,10.0,Debit Card,CASH_23,South,Bengaluru,Electronics
+TXN_202401150819,STORE_001,Indiranagar Metro,2024-01-15,CUST_2676,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,854.05,5.0,Cash,CASH_16,South,Bengaluru,Electronics
+TXN_202401150820,STORE_004,Hitec City Retail,2024-01-16,CUST_3319,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2398.4,20.0,UPI,CASH_40,South,Hyderabad,Apparel
+TXN_202401150821,STORE_003,Connaught Place,2024-01-17,CUST_1229,SKU_BEV_002,Green Tea Box 50s,4,190.0,684.0,10.0,Debit Card,CASH_46,North,Delhi,Beverages
+TXN_202401150822,STORE_004,Hitec City Retail,2024-01-18,CUST_5194,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1618.2,10.0,Debit Card,CASH_26,South,Hyderabad,Electronics
+TXN_202401150823,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8502,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,864.0,10.0,Credit Card,CASH_20,South,Bengaluru,Beverages
+TXN_202401150824,STORE_005,Anna Nagar Central,2024-01-16,CUST_7861,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1797.0,0.0,Net Banking,CASH_22,South,Chennai,Apparel
+TXN_202401150825,STORE_002,Bandra West Flagship,2024-01-16,CUST_5727,SKU_BEV_002,Green Tea Box 50s,1,190.0,171.0,10.0,Credit Card,CASH_13,West,Mumbai,Beverages
+TXN_202401150826,STORE_004,Hitec City Retail,2024-01-16,CUST_1732,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,4497.0,0.0,Credit Card,CASH_29,South,Hyderabad,Apparel
+TXN_202401150827,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3790,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1483.25,15.0,UPI,CASH_45,South,Bengaluru,Home Goods
+TXN_202401150828,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_2781,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,432.0,10.0,Net Banking,CASH_41,South,Bengaluru,Beverages
+TXN_202401150829,STORE_001,Indiranagar Metro,2024-01-16,CUST_6638,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,684.0,5.0,Net Banking,CASH_21,South,Bengaluru,Grocery
+TXN_202401150830,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8446,SKU_BEV_002,Green Tea Box 50s,3,190.0,484.5,15.0,UPI,CASH_30,South,Bengaluru,Beverages
+TXN_202401150831,STORE_001,Indiranagar Metro,2024-01-17,CUST_5651,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,599.0,0.0,Debit Card,CASH_22,South,Bengaluru,Apparel
+TXN_202401150832,STORE_004,Hitec City Retail,2024-01-17,CUST_4602,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,720.0,20.0,Net Banking,CASH_21,South,Hyderabad,Grocery
+TXN_202401150833,STORE_003,Connaught Place,2024-01-16,CUST_9932,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,670.5,10.0,Cash,CASH_22,North,Delhi,Home Goods
+TXN_202401150834,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2764,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1912.5,15.0,UPI,CASH_18,South,Bengaluru,Grocery
+TXN_202401150835,STORE_002,Bandra West Flagship,2024-01-16,CUST_2952,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,216.0,10.0,Net Banking,CASH_10,West,Mumbai,Beverages
+TXN_202401150836,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_2545,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,180.0,0.0,Net Banking,CASH_44,South,Bengaluru,Grocery
+TXN_202401150837,STORE_002,Bandra West Flagship,2024-01-17,CUST_3721,SKU_GROC_001,Basmati Rice 5kg,5,450.0,1912.5,15.0,UPI,CASH_41,West,Mumbai,Grocery
+TXN_202401150838,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7690,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,809.1,10.0,UPI,CASH_25,South,Bengaluru,Electronics
+TXN_202401150839,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5021,SKU_ELEC_001,Fast Charging Cable USB-C,2,399.0,758.1,5.0,Cash,CASH_12,South,Bengaluru,Electronics
+TXN_202401150840,STORE_001,Indiranagar Metro,2024-01-15,CUST_6667,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,306.0,15.0,UPI,CASH_41,South,Bengaluru,Grocery
+TXN_202401150841,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4159,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,480.0,0.0,Credit Card,CASH_19,South,Bengaluru,Beverages
+TXN_202401150842,STORE_001,Indiranagar Metro,2024-01-17,CUST_7030,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2276.2,5.0,Credit Card,CASH_20,South,Bengaluru,Apparel
+TXN_202401150843,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7761,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,576.0,20.0,UPI,CASH_26,South,Bengaluru,Grocery
+TXN_202401150844,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_3924,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,506.6,15.0,Net Banking,CASH_11,South,Bengaluru,Home Goods
+TXN_202401150845,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5695,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,486.0,10.0,Debit Card,CASH_14,South,Bengaluru,Grocery
+TXN_202401150846,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4926,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4045.5,10.0,Cash,CASH_15,South,Bengaluru,Electronics
+TXN_202401150847,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8968,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1745.0,0.0,Credit Card,CASH_24,South,Bengaluru,Home Goods
+TXN_202401150848,STORE_001,Indiranagar Metro,2024-01-18,CUST_8641,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,809.1,10.0,Cash,CASH_43,South,Bengaluru,Electronics
+TXN_202401150849,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8973,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2995.0,0.0,Cash,CASH_39,South,Bengaluru,Apparel
+TXN_202401150850,STORE_002,Bandra West Flagship,2024-01-17,CUST_4194,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1795.5,10.0,Cash,CASH_39,West,Mumbai,Electronics
+TXN_202401150851,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7109,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,854.05,5.0,Debit Card,CASH_32,South,Bengaluru,Electronics
+TXN_202401150852,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5617,SKU_GROC_001,Basmati Rice 5kg,2,450.0,720.0,20.0,Net Banking,CASH_20,South,Bengaluru,Grocery
+TXN_202401150853,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6500,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2156.4,10.0,Cash,CASH_25,South,Bengaluru,Apparel
+TXN_202401150854,STORE_004,Hitec City Retail,2024-01-15,CUST_6404,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,384.0,20.0,Debit Card,CASH_16,South,Hyderabad,Beverages
+TXN_202401150855,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6279,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,3597.6,20.0,Net Banking,CASH_20,South,Bengaluru,Apparel
+TXN_202401150856,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_3691,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,3597.6,20.0,Cash,CASH_49,South,Bengaluru,Apparel
+TXN_202401150857,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1204,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,648.0,10.0,Credit Card,CASH_32,South,Bengaluru,Grocery
+TXN_202401150858,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_9293,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,942.3,10.0,Cash,CASH_48,South,Bengaluru,Home Goods
+TXN_202401150859,STORE_002,Bandra West Flagship,2024-01-17,CUST_4115,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1349.1,10.0,Debit Card,CASH_18,West,Mumbai,Apparel
+TXN_202401150860,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3762,SKU_BEV_002,Green Tea Box 50s,1,190.0,180.5,5.0,Net Banking,CASH_15,South,Bengaluru,Beverages
+TXN_202401150861,STORE_003,Connaught Place,2024-01-15,CUST_3817,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,596.0,20.0,Cash,CASH_41,North,Delhi,Home Goods
+TXN_202401150862,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1873,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,349.0,0.0,Credit Card,CASH_50,South,Bengaluru,Home Goods
+TXN_202401150863,STORE_001,Indiranagar Metro,2024-01-18,CUST_8208,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2848.1,5.0,Credit Card,CASH_44,South,Bengaluru,Apparel
+TXN_202401150864,STORE_001,Indiranagar Metro,2024-01-16,CUST_1374,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,864.0,10.0,Debit Card,CASH_11,South,Bengaluru,Beverages
+TXN_202401150865,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3060,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1530.0,15.0,Debit Card,CASH_23,South,Bengaluru,Grocery
+TXN_202401150866,STORE_003,Connaught Place,2024-01-17,CUST_4158,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2036.6,15.0,UPI,CASH_29,North,Delhi,Apparel
+TXN_202401150867,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7340,SKU_BEV_002,Green Tea Box 50s,1,190.0,161.5,15.0,Credit Card,CASH_46,South,Bengaluru,Beverages
+TXN_202401150868,STORE_005,Anna Nagar Central,2024-01-18,CUST_3787,SKU_GROC_001,Basmati Rice 5kg,5,450.0,2250.0,0.0,Credit Card,CASH_41,South,Chennai,Grocery
+TXN_202401150869,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6358,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,569.05,5.0,Cash,CASH_31,South,Bengaluru,Apparel
+TXN_202401150870,STORE_004,Hitec City Retail,2024-01-15,CUST_2794,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,4,149.0,506.6,15.0,Net Banking,CASH_32,South,Hyderabad,Home Goods
+TXN_202401150871,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_6183,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,6745.5,10.0,Debit Card,CASH_30,South,Bengaluru,Apparel
+TXN_202401150872,STORE_004,Hitec City Retail,2024-01-15,CUST_8581,SKU_GROC_001,Basmati Rice 5kg,1,450.0,360.0,20.0,UPI,CASH_18,South,Hyderabad,Grocery
+TXN_202401150873,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_5097,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,279.2,20.0,Net Banking,CASH_31,South,Bengaluru,Home Goods
+TXN_202401150874,STORE_005,Anna Nagar Central,2024-01-15,CUST_4902,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1282.5,5.0,Credit Card,CASH_44,South,Chennai,Grocery
+TXN_202401150875,STORE_005,Anna Nagar Central,2024-01-18,CUST_4998,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2276.2,5.0,Net Banking,CASH_48,South,Chennai,Apparel
+TXN_202401150876,STORE_003,Connaught Place,2024-01-17,CUST_1834,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2695.5,10.0,Debit Card,CASH_20,North,Delhi,Apparel
+TXN_202401150877,STORE_003,Connaught Place,2024-01-17,CUST_1352,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,596.0,20.0,Net Banking,CASH_24,North,Delhi,Home Goods
+TXN_202401150878,STORE_003,Connaught Place,2024-01-15,CUST_7706,SKU_BEV_002,Green Tea Box 50s,1,190.0,190.0,0.0,UPI,CASH_36,North,Delhi,Beverages
+TXN_202401150879,STORE_005,Anna Nagar Central,2024-01-18,CUST_2755,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,958.4,20.0,Net Banking,CASH_38,South,Chennai,Apparel
+TXN_202401150880,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4793,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,745.0,0.0,Debit Card,CASH_22,South,Bengaluru,Home Goods
+TXN_202401150881,STORE_004,Hitec City Retail,2024-01-18,CUST_5264,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1020.0,15.0,Cash,CASH_19,South,Hyderabad,Beverages
+TXN_202401150882,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7828,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4045.5,10.0,Debit Card,CASH_50,South,Bengaluru,Electronics
+TXN_202401150883,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_7313,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1198.0,0.0,Credit Card,CASH_35,South,Bengaluru,Apparel
+TXN_202401150884,STORE_005,Anna Nagar Central,2024-01-16,CUST_9231,SKU_APP_001,Cotton Crew Neck T-Shirt,2,599.0,1018.3,15.0,Net Banking,CASH_32,South,Chennai,Apparel
+TXN_202401150885,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5611,SKU_BEV_002,Green Tea Box 50s,4,190.0,684.0,10.0,Debit Card,CASH_24,South,Bengaluru,Beverages
+TXN_202401150886,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6031,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,324.0,10.0,Cash,CASH_28,South,Bengaluru,Grocery
+TXN_202401150887,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4709,SKU_BEV_002,Green Tea Box 50s,2,190.0,323.0,15.0,UPI,CASH_38,South,Bengaluru,Beverages
+TXN_202401150888,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6338,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2396.0,20.0,Cash,CASH_31,South,Bengaluru,Apparel
+TXN_202401150889,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4500,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,1,149.0,119.2,20.0,Debit Card,CASH_48,South,Bengaluru,Home Goods
+TXN_202401150890,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_1249,SKU_BEV_002,Green Tea Box 50s,3,190.0,570.0,0.0,Cash,CASH_36,South,Bengaluru,Beverages
+TXN_202401150891,STORE_002,Bandra West Flagship,2024-01-17,CUST_4008,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1020.0,15.0,Credit Card,CASH_40,West,Mumbai,Beverages
+TXN_202401150892,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6668,SKU_BEV_002,Green Tea Box 50s,5,190.0,807.5,15.0,Debit Card,CASH_31,South,Bengaluru,Beverages
+TXN_202401150893,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2201,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,6745.5,10.0,Net Banking,CASH_37,South,Bengaluru,Apparel
+TXN_202401150894,STORE_003,Connaught Place,2024-01-16,CUST_3386,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,324.0,10.0,Cash,CASH_28,North,Delhi,Grocery
+TXN_202401150895,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6931,SKU_BEV_002,Green Tea Box 50s,5,190.0,950.0,0.0,UPI,CASH_41,South,Bengaluru,Beverages
+TXN_202401150896,STORE_002,Bandra West Flagship,2024-01-18,CUST_3464,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,339.15,15.0,Debit Card,CASH_19,West,Mumbai,Electronics
+TXN_202401150897,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_8840,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2562.15,5.0,Net Banking,CASH_32,South,Bengaluru,Electronics
+TXN_202401150898,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_2711,SKU_BEV_002,Green Tea Box 50s,3,190.0,541.5,5.0,Debit Card,CASH_20,South,Bengaluru,Beverages
+TXN_202401150899,STORE_002,Bandra West Flagship,2024-01-18,CUST_3501,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4270.25,5.0,Credit Card,CASH_20,West,Mumbai,Electronics
+TXN_202401150900,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7956,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,5996.0,0.0,Debit Card,CASH_27,South,Bengaluru,Apparel
+TXN_202401150901,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7379,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,707.75,5.0,Credit Card,CASH_49,South,Bengaluru,Home Goods
+TXN_202401150902,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7647,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1798.0,0.0,Credit Card,CASH_37,South,Bengaluru,Electronics
+TXN_202401150903,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1583,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,4796.8,20.0,Cash,CASH_28,South,Bengaluru,Apparel
+TXN_202401150904,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1457,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,1080.0,10.0,Net Banking,CASH_19,South,Bengaluru,Beverages
+TXN_202401150905,STORE_001,Indiranagar Metro,2024-01-15,CUST_8334,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,864.0,10.0,UPI,CASH_34,South,Bengaluru,Beverages
+TXN_202401150906,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_8249,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1274.15,15.0,UPI,CASH_31,South,Bengaluru,Apparel
+TXN_202401150907,STORE_004,Hitec City Retail,2024-01-15,CUST_3759,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2697.0,0.0,UPI,CASH_28,South,Hyderabad,Electronics
+TXN_202401150908,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5038,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1570.5,10.0,Cash,CASH_47,South,Bengaluru,Home Goods
+TXN_202401150909,STORE_002,Bandra West Flagship,2024-01-17,CUST_3701,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1215.0,10.0,Credit Card,CASH_50,West,Mumbai,Grocery
+TXN_202401150910,STORE_005,Anna Nagar Central,2024-01-17,CUST_8182,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,670.5,10.0,Cash,CASH_14,South,Chennai,Home Goods
+TXN_202401150911,STORE_001,Indiranagar Metro,2024-01-15,CUST_4243,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1256.4,10.0,Debit Card,CASH_15,South,Bengaluru,Home Goods
+TXN_202401150912,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3980,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,576.0,20.0,Net Banking,CASH_14,South,Bengaluru,Grocery
+TXN_202401150913,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3686,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1017.45,15.0,UPI,CASH_10,South,Bengaluru,Electronics
+TXN_202401150914,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_2388,SKU_APP_002,Denim Slim Fit Jeans,2,1499.0,2548.3,15.0,Cash,CASH_12,South,Bengaluru,Apparel
+TXN_202401150915,STORE_004,Hitec City Retail,2024-01-16,CUST_5203,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,399.0,0.0,Net Banking,CASH_13,South,Hyderabad,Electronics
+TXN_202401150916,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7879,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1620.0,10.0,UPI,CASH_18,South,Bengaluru,Grocery
+TXN_202401150917,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4144,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1795.5,10.0,Debit Card,CASH_10,South,Bengaluru,Electronics
+TXN_202401150918,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3288,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,889.95,15.0,UPI,CASH_23,South,Bengaluru,Home Goods
+TXN_202401150919,STORE_004,Hitec City Retail,2024-01-15,CUST_9192,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1017.45,15.0,Debit Card,CASH_10,South,Hyderabad,Electronics
+TXN_202401150920,STORE_002,Bandra West Flagship,2024-01-16,CUST_8546,SKU_GROC_002,Organic Sunflower Oil 1L,2,180.0,360.0,0.0,Debit Card,CASH_23,West,Mumbai,Grocery
+TXN_202401150921,STORE_004,Hitec City Retail,2024-01-16,CUST_8873,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,7120.25,5.0,Credit Card,CASH_18,South,Hyderabad,Apparel
+TXN_202401150922,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6810,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,684.0,5.0,Debit Card,CASH_23,South,Bengaluru,Grocery
+TXN_202401150923,STORE_003,Connaught Place,2024-01-17,CUST_8538,SKU_BEV_001,Artisan Filter Coffee 250g,2,240.0,480.0,0.0,UPI,CASH_41,North,Delhi,Beverages
+TXN_202401150924,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5382,SKU_BEV_001,Artisan Filter Coffee 250g,5,240.0,960.0,20.0,UPI,CASH_47,South,Bengaluru,Beverages
+TXN_202401150925,STORE_004,Hitec City Retail,2024-01-15,CUST_3742,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1657.75,5.0,Net Banking,CASH_40,South,Hyderabad,Home Goods
+TXN_202401150926,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8915,SKU_HOME_002,Stainless Steel Water Bottle 1L,4,349.0,1256.4,10.0,Debit Card,CASH_20,South,Bengaluru,Home Goods
+TXN_202401150927,STORE_001,Indiranagar Metro,2024-01-16,CUST_6015,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,4497.0,0.0,Net Banking,CASH_43,South,Bengaluru,Apparel
+TXN_202401150928,STORE_003,Connaught Place,2024-01-16,CUST_4601,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,3820.75,15.0,Net Banking,CASH_30,North,Delhi,Electronics
+TXN_202401150929,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_7854,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1527.45,15.0,Debit Card,CASH_47,South,Bengaluru,Apparel
+TXN_202401150930,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6333,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,4495.0,0.0,Net Banking,CASH_15,South,Bengaluru,Electronics
+TXN_202401150931,STORE_001,Indiranagar Metro,2024-01-15,CUST_6193,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2396.0,0.0,Credit Card,CASH_22,South,Bengaluru,Apparel
+TXN_202401150932,STORE_005,Anna Nagar Central,2024-01-16,CUST_9119,SKU_GROC_001,Basmati Rice 5kg,2,450.0,900.0,0.0,Net Banking,CASH_27,South,Chennai,Grocery
+TXN_202401150933,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6039,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,339.15,15.0,Credit Card,CASH_38,South,Bengaluru,Electronics
+TXN_202401150934,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_8856,SKU_ELEC_001,Fast Charging Cable USB-C,5,399.0,1596.0,20.0,Cash,CASH_24,South,Bengaluru,Electronics
+TXN_202401150935,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_5180,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1147.5,15.0,Net Banking,CASH_43,South,Bengaluru,Grocery
+TXN_202401150936,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_1117,SKU_ELEC_002,Wireless Ergonomic Mouse,2,899.0,1618.2,10.0,Credit Card,CASH_38,South,Bengaluru,Electronics
+TXN_202401150937,STORE_005,Anna Nagar Central,2024-01-17,CUST_1611,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,707.75,5.0,Debit Card,CASH_36,South,Chennai,Home Goods
+TXN_202401150938,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_5079,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1276.8,20.0,UPI,CASH_30,South,Bengaluru,Electronics
+TXN_202401150939,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1199,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,399.0,0.0,Net Banking,CASH_30,South,Bengaluru,Electronics
+TXN_202401150940,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_5688,SKU_HOME_002,Stainless Steel Water Bottle 1L,1,349.0,349.0,0.0,Net Banking,CASH_10,South,Bengaluru,Home Goods
+TXN_202401150941,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_3226,SKU_APP_001,Cotton Crew Neck T-Shirt,4,599.0,2156.4,10.0,Debit Card,CASH_44,South,Bengaluru,Apparel
+TXN_202401150942,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_9233,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1077.3,10.0,Net Banking,CASH_40,South,Bengaluru,Electronics
+TXN_202401150943,STORE_003,Connaught Place,2024-01-18,CUST_2895,SKU_GROC_001,Basmati Rice 5kg,1,450.0,450.0,0.0,Debit Card,CASH_34,North,Delhi,Grocery
+TXN_202401150944,STORE_002,Bandra West Flagship,2024-01-16,CUST_3301,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,432.0,20.0,Net Banking,CASH_40,West,Mumbai,Grocery
+TXN_202401150945,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4061,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2396.0,20.0,Debit Card,CASH_26,South,Bengaluru,Apparel
+TXN_202401150946,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8726,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1657.75,5.0,Net Banking,CASH_20,South,Bengaluru,Home Goods
+TXN_202401150947,STORE_004,Hitec City Retail,2024-01-17,CUST_4171,SKU_GROC_001,Basmati Rice 5kg,5,450.0,2137.5,5.0,Cash,CASH_20,South,Hyderabad,Grocery
+TXN_202401150948,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4864,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,319.2,20.0,Net Banking,CASH_19,South,Bengaluru,Electronics
+TXN_202401150949,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_7197,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2562.15,5.0,Cash,CASH_49,South,Bengaluru,Electronics
+TXN_202401150950,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8220,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1437.6,20.0,Credit Card,CASH_41,South,Bengaluru,Apparel
+TXN_202401150951,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9282,SKU_BEV_002,Green Tea Box 50s,2,190.0,323.0,15.0,Credit Card,CASH_29,South,Bengaluru,Beverages
+TXN_202401150952,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4457,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,912.0,5.0,Net Banking,CASH_44,South,Bengaluru,Beverages
+TXN_202401150953,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_9245,SKU_GROC_002,Organic Sunflower Oil 1L,1,180.0,162.0,10.0,Debit Card,CASH_15,South,Bengaluru,Grocery
+TXN_202401150954,STORE_002,Bandra West Flagship,2024-01-17,CUST_8793,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1424.05,5.0,Debit Card,CASH_16,West,Mumbai,Apparel
+TXN_202401150955,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8557,SKU_BEV_001,Artisan Filter Coffee 250g,3,240.0,576.0,20.0,Cash,CASH_13,South,Bengaluru,Beverages
+TXN_202401150956,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_8661,SKU_APP_001,Cotton Crew Neck T-Shirt,1,599.0,599.0,0.0,Net Banking,CASH_37,South,Bengaluru,Apparel
+TXN_202401150957,STORE_002,Bandra West Flagship,2024-01-16,CUST_6944,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,596.0,20.0,Credit Card,CASH_42,West,Mumbai,Home Goods
+TXN_202401150958,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4465,SKU_APP_001,Cotton Crew Neck T-Shirt,5,599.0,2995.0,0.0,Credit Card,CASH_16,South,Bengaluru,Apparel
+TXN_202401150959,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6102,SKU_GROC_002,Organic Sunflower Oil 1L,3,180.0,513.0,5.0,Cash,CASH_35,South,Bengaluru,Grocery
+TXN_202401150960,STORE_005,Anna Nagar Central,2024-01-15,CUST_5170,SKU_BEV_002,Green Tea Box 50s,4,190.0,646.0,15.0,Net Banking,CASH_32,South,Chennai,Beverages
+TXN_202401150961,STORE_003,Connaught Place,2024-01-16,CUST_7647,SKU_BEV_001,Artisan Filter Coffee 250g,4,240.0,816.0,15.0,UPI,CASH_26,North,Delhi,Beverages
+TXN_202401150962,STORE_004,Hitec City Retail,2024-01-16,CUST_6357,SKU_ELEC_001,Fast Charging Cable USB-C,1,399.0,339.15,15.0,Debit Card,CASH_32,South,Hyderabad,Electronics
+TXN_202401150963,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_6801,SKU_GROC_001,Basmati Rice 5kg,2,450.0,720.0,20.0,Credit Card,CASH_20,South,Bengaluru,Grocery
+TXN_202401150964,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_8503,SKU_GROC_002,Organic Sunflower Oil 1L,5,180.0,855.0,5.0,Net Banking,CASH_48,South,Bengaluru,Grocery
+TXN_202401150965,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6240,SKU_BEV_002,Green Tea Box 50s,3,190.0,541.5,5.0,Cash,CASH_36,South,Bengaluru,Beverages
+TXN_202401150966,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2641,SKU_HOME_002,Stainless Steel Water Bottle 1L,5,349.0,1396.0,20.0,UPI,CASH_25,South,Bengaluru,Home Goods
+TXN_202401150967,STORE_004,Hitec City Retail,2024-01-18,CUST_6092,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,3416.2,5.0,Debit Card,CASH_25,South,Hyderabad,Electronics
+TXN_202401150968,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_2859,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1077.3,10.0,Debit Card,CASH_46,South,Bengaluru,Electronics
+TXN_202401150969,STORE_001,Indiranagar Metro,2024-01-16,CUST_9157,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1436.4,10.0,Net Banking,CASH_15,South,Bengaluru,Electronics
+TXN_202401150970,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_1192,SKU_APP_002,Denim Slim Fit Jeans,3,1499.0,4497.0,0.0,Credit Card,CASH_30,South,Bengaluru,Apparel
+TXN_202401150971,STORE_004,Hitec City Retail,2024-01-18,CUST_6429,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1356.6,15.0,UPI,CASH_47,South,Hyderabad,Electronics
+TXN_202401150972,STORE_001,Indiranagar Metro,2024-01-17,CUST_4639,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,719.2,20.0,Cash,CASH_46,South,Bengaluru,Electronics
+TXN_202401150973,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_3778,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,889.95,15.0,Cash,CASH_26,South,Bengaluru,Home Goods
+TXN_202401150974,STORE_003,Connaught Place,2024-01-18,CUST_8106,SKU_BEV_001,Artisan Filter Coffee 250g,1,240.0,204.0,15.0,UPI,CASH_38,North,Delhi,Beverages
+TXN_202401150975,STORE_002,Bandra West Flagship,2024-01-17,CUST_4549,SKU_GROC_001,Basmati Rice 5kg,4,450.0,1530.0,15.0,Debit Card,CASH_38,West,Mumbai,Grocery
+TXN_202401150976,STORE_002,Bandra West Flagship,2024-01-18,CUST_3882,SKU_ELEC_002,Wireless Ergonomic Mouse,1,899.0,764.15,15.0,Debit Card,CASH_44,West,Mumbai,Electronics
+TXN_202401150977,STORE_005,Anna Nagar Central,2024-01-16,CUST_6839,SKU_ELEC_001,Fast Charging Cable USB-C,4,399.0,1596.0,0.0,Cash,CASH_46,South,Chennai,Electronics
+TXN_202401150978,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_2401,SKU_ELEC_002,Wireless Ergonomic Mouse,4,899.0,3056.6,15.0,Debit Card,CASH_10,South,Bengaluru,Electronics
+TXN_202401150979,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_1441,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,5396.4,10.0,UPI,CASH_23,South,Bengaluru,Apparel
+TXN_202401150980,STORE_999,Koramangala Superstore (Hotspot),2024-01-15,CUST_4801,SKU_APP_001,Cotton Crew Neck T-Shirt,3,599.0,1797.0,0.0,Cash,CASH_13,South,Bengaluru,Apparel
+TXN_202401150981,STORE_002,Bandra West Flagship,2024-01-17,CUST_2701,SKU_GROC_002,Organic Sunflower Oil 1L,4,180.0,720.0,0.0,UPI,CASH_37,West,Mumbai,Grocery
+TXN_202401150982,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_9018,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2562.15,5.0,Credit Card,CASH_29,South,Bengaluru,Electronics
+TXN_202401150983,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_7841,SKU_ELEC_002,Wireless Ergonomic Mouse,3,899.0,2292.45,15.0,Debit Card,CASH_44,South,Bengaluru,Electronics
+TXN_202401150984,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6111,SKU_APP_002,Denim Slim Fit Jeans,1,1499.0,1274.15,15.0,Net Banking,CASH_43,South,Bengaluru,Apparel
+TXN_202401150985,STORE_004,Hitec City Retail,2024-01-18,CUST_8349,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,596.0,20.0,Credit Card,CASH_15,South,Hyderabad,Home Goods
+TXN_202401150986,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_6367,SKU_HOME_002,Stainless Steel Water Bottle 1L,3,349.0,942.3,10.0,Credit Card,CASH_23,South,Bengaluru,Home Goods
+TXN_202401150987,STORE_005,Anna Nagar Central,2024-01-17,CUST_1554,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1215.0,10.0,Debit Card,CASH_42,South,Chennai,Grocery
+TXN_202401150988,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_4356,SKU_BEV_002,Green Tea Box 50s,3,190.0,570.0,0.0,Credit Card,CASH_28,South,Bengaluru,Beverages
+TXN_202401150989,STORE_001,Indiranagar Metro,2024-01-15,CUST_5570,SKU_APP_002,Denim Slim Fit Jeans,4,1499.0,5696.2,5.0,Net Banking,CASH_45,South,Bengaluru,Apparel
+TXN_202401150990,STORE_999,Koramangala Superstore (Hotspot),2024-01-18,CUST_1484,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,5,149.0,670.5,10.0,UPI,CASH_15,South,Bengaluru,Home Goods
+TXN_202401150991,STORE_003,Connaught Place,2024-01-15,CUST_6077,SKU_ELEC_002,Wireless Ergonomic Mouse,5,899.0,3596.0,20.0,Cash,CASH_25,North,Delhi,Electronics
+TXN_202401150992,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_4654,SKU_GROC_001,Basmati Rice 5kg,3,450.0,1350.0,0.0,UPI,CASH_33,South,Bengaluru,Grocery
+TXN_202401150993,STORE_005,Anna Nagar Central,2024-01-18,CUST_3196,SKU_BEV_002,Green Tea Box 50s,1,190.0,161.5,15.0,Credit Card,CASH_50,South,Chennai,Beverages
+TXN_202401150994,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_4653,SKU_BEV_002,Green Tea Box 50s,3,190.0,541.5,5.0,Debit Card,CASH_36,South,Bengaluru,Beverages
+TXN_202401150995,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6998,SKU_BEV_002,Green Tea Box 50s,5,190.0,855.0,10.0,UPI,CASH_37,South,Bengaluru,Beverages
+TXN_202401150996,STORE_001,Indiranagar Metro,2024-01-18,CUST_1076,SKU_HOME_001,Microfiber Cleaning Cloth 3pk,3,149.0,447.0,0.0,Cash,CASH_21,South,Bengaluru,Home Goods
+TXN_202401150997,STORE_005,Anna Nagar Central,2024-01-15,CUST_2571,SKU_BEV_002,Green Tea Box 50s,5,190.0,760.0,20.0,Debit Card,CASH_25,South,Chennai,Beverages
+TXN_202401150998,STORE_999,Koramangala Superstore (Hotspot),2024-01-17,CUST_1326,SKU_ELEC_001,Fast Charging Cable USB-C,3,399.0,1197.0,0.0,Debit Card,CASH_39,South,Bengaluru,Electronics
+TXN_202401150999,STORE_999,Koramangala Superstore (Hotspot),2024-01-16,CUST_6281,SKU_APP_002,Denim Slim Fit Jeans,5,1499.0,6370.75,15.0,Cash,CASH_50,South,Bengaluru,Apparel
+TXN_202401151000,STORE_001,Indiranagar Metro,2024-01-18,CUST_6578,SKU_HOME_002,Stainless Steel Water Bottle 1L,2,349.0,663.1,5.0,UPI,CASH_20,South,Bengaluru,Home Goods

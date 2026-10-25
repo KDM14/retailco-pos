@@ -1,0 +1,124 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RetailCo POS Transaction Record",
+  "description": "Producer-consumer data contract for RetailCo POS raw transaction data (v1.0.0)",
+  "type": "object",
+  "required": [
+    "transaction_id",
+    "store_id",
+    "store_name",
+    "transaction_date",
+    "customer_id",
+    "product_code",
+    "product_name",
+    "quantity",
+    "unit_price_inr",
+    "total_amount_inr",
+    "discount_pct",
+    "payment_method",
+    "cashier_id",
+    "region",
+    "city",
+    "category"
+  ],
+  "properties": {
+    "transaction_id": {
+      "type": "string",
+      "description": "Unique transaction identifier from POS",
+      "pattern": "^[A-Z0-9_-]+$",
+      "minLength": 1,
+      "maxLength": 50
+    },
+    "store_id": {
+      "type": "string",
+      "description": "Store identifier",
+      "minLength": 1,
+      "maxLength": 20
+    },
+    "store_name": {
+      "type": "string",
+      "description": "Human-readable store name",
+      "minLength": 1,
+      "maxLength": 100
+    },
+    "transaction_date": {
+      "type": "string",
+      "description": "Transaction date in DD-MM-YYYY format",
+      "pattern": "^(0[1-9]|[12][0-9]|3[01])-(0[1-9]|1[012])-([0-9]{4})$"
+    },
+    "customer_id": {
+      "type": "string",
+      "description": "Unique customer identifier",
+      "minLength": 1,
+      "maxLength": 50
+    },
+    "product_code": {
+      "type": "string",
+      "description": "Product SKU code",
+      "pattern": "^[A-Z0-9_-]+$",
+      "minLength": 1,
+      "maxLength": 50
+    },
+    "product_name": {
+      "type": "string",
+      "description": "Product name",
+      "minLength": 1,
+      "maxLength": 200
+    },
+    "category": {
+      "type": "string",
+      "description": "Product category (optional, defaults to Unknown)",
+      "maxLength": 50
+    },
+    "quantity": {
+      "type": "integer",
+      "description": "Quantity purchased (must be positive)",
+      "minimum": 1
+    },
+    "unit_price_inr": {
+      "type": "number",
+      "description": "Unit price in Indian Rupees (must be non-negative)",
+      "minimum": 0.0
+    },
+    "total_amount_inr": {
+      "type": "number",
+      "description": "Total line item amount in INR",
+      "minimum": 0.0
+    },
+    "discount_pct": {
+      "type": "number",
+      "description": "Discount percentage applied to this line item",
+      "minimum": 0.0,
+      "maximum": 100.0
+    },
+    "payment_method": {
+      "type": "string",
+      "description": "Payment method used",
+      "enum": [
+        "Cash",
+        "UPI",
+        "Credit Card",
+        "Debit Card",
+        "Other"
+      ]
+    },
+    "cashier_id": {
+      "type": "string",
+      "description": "Cashier/POS operator identifier",
+      "minLength": 1,
+      "maxLength": 20
+    },
+    "region": {
+      "type": "string",
+      "description": "Geographic region",
+      "minLength": 1,
+      "maxLength": 50
+    },
+    "city": {
+      "type": "string",
+      "description": "City name",
+      "minLength": 1,
+      "maxLength": 50
+    }
+  }
+}

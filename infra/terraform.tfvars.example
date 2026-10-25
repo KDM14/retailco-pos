@@ -1,0 +1,5 @@
+project_id       = "your-gcp-project-id"
+region           = "asia-south1"
+data_lake_bucket = "retailco-pos-data-lake-prod"
+dataset_id       = "retailco_analytical_marts"
+pubsub_topic     = "retailco-transactions"

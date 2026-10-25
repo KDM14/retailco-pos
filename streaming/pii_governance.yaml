@@ -1,0 +1,29 @@
+# RetailCo PII Privacy & Compliance Governance Rules
+# Defines automated tokenization and masking rules for POS streaming ingest.
+# Compliant with GDPR / DPDP (Digital Personal Data Protection Act).
+
+version: "1.0.0"
+governance_tier: "RESTRICTED"
+
+rules:
+  - field: "customer_email"
+    action: "hash"
+    algorithm: "SHA-256"
+    purpose: "Customer pseudonymization for longitudinal analytics without exposing PII."
+
+  - field: "customer_id"
+    action: "hash"
+    algorithm: "SHA-256"
+    purpose: "Prevents direct customer identification across reporting marts."
+
+  - field: "credit_card"
+    action: "mask"
+    preserve_last: 4
+    mask_char: "*"
+    purpose: "PCI-DSS compliance; preserves last 4 digits for transaction auditing."
+
+  - field: "phone_number"
+    action: "mask"
+    preserve_last: 2
+    mask_char: "*"
+    purpose: "DPDP compliance."

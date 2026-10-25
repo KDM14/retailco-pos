@@ -1,0 +1,63 @@
+version: 2
+
+models:
+  - name: fct_sales
+    description: "Core sales fact table at the grain of 1 row per transaction line-item. Materialized incrementally with BigQuery partitioning and clustering."
+    columns:
+      - name: sales_key
+        description: "Surrogate primary key: MD5(CONCAT(transaction_id, '-', product_code))."
+        tests:
+          - unique
+          - not_null
+      - name: transaction_id
+        description: "Natural transaction ID."
+        tests:
+          - not_null
+      - name: parsed_date
+        description: "Partition key for BigQuery FinOps query optimization."
+        tests:
+          - not_null
+      - name: store_id
+        description: "Foreign key to dim_store."
+        tests:
+          - not_null
+      - name: product_code
+        description: "Foreign key to dim_product."
+        tests:
+          - not_null
+      - name: quantity
+        description: "Purchased quantity (must be >= 1)."
+        tests:
+          - not_null
+      - name: net_amount_inr
+        description: "Final net billed revenue after discount."
+        tests:
+          - not_null
+
+  - name: dim_store
+    description: "Store dimension containing physical location metadata, region, and tier."
+    columns:
+      - name: store_id
+        description: "Primary key for store dimension."
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_product
+    description: "Product dimension containing SKU codes, product names, categories, and MSRP."
+    columns:
+      - name: product_code
+        description: "Primary key for product SKU."
+        tests:
+          - unique
+          - not_null
+
+  - name: mart_daily_store_sales
+    description: "Aggregated reporting mart powering executive and store operations BI dashboards."
+    columns:
+      - name: store_id
+        tests:
+          - not_null
+      - name: sales_date
+        tests:
+          - not_null

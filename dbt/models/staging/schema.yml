@@ -1,0 +1,26 @@
+version: 2
+
+models:
+  - name: stg_retailco_transactions
+    description: "Staging view that normalizes POS line-item records, coerces datatypes, and parses dates."
+    columns:
+      - name: transaction_id
+        description: "Primary transaction identifier."
+        tests:
+          - not_null
+      - name: product_code
+        description: "Product identifier."
+        tests:
+          - not_null
+      - name: parsed_date
+        description: "Standardized SQL DATE."
+        tests:
+          - not_null
+      - name: quantity
+        description: "Units sold."
+        tests:
+          - not_null
+      - name: unit_price_inr
+        description: "Selling price per unit."
+        tests:
+          - not_null

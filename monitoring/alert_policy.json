@@ -1,0 +1,26 @@
+{
+  "displayName": "RetailCo - Critical Pipeline SLA Failure & DQ Alert",
+  "combiner": "OR",
+  "conditions": [
+    {
+      "displayName": "Composer Airflow Task SLA Breach (> 2 hours)",
+      "conditionThreshold": {
+        "filter": "resource.type=\"cloud_composer_environment\" AND metric.type=\"composer.googleapis.com/workflow/task/duration\"",
+        "comparison": "COMPARISON_GT",
+        "thresholdValue": 7200,
+        "duration": "60s"
+      }
+    },
+    {
+      "displayName": "Data Quality Quarantine Count > 0",
+      "conditionThreshold": {
+        "filter": "resource.type=\"global\" AND metric.type=\"logging.googleapis.com/user/dq_gate_failure_count\"",
+        "comparison": "COMPARISON_GT",
+        "thresholdValue": 0,
+        "duration": "0s"
+      }
+    }
+  ],
+  "notificationChannels": [],
+  "enabled": true
+}

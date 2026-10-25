@@ -1,0 +1,6 @@
+BigQuery error in query operation: Error processing job 'eternal-
+synapse-434913-d6:bqjob_r58dec0741fea3da5_000001a0d8858a26_1': Access Denied:
+Table eternal-synapse-434913-d6:retailco_week10.sales_transactions_raw: User
+does not have permission to query table eternal-
+synapse-434913-d6:retailco_week10.sales_transactions_raw, or perhaps it does not
+exist.

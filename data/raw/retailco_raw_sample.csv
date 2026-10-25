@@ -1,0 +1,53 @@
+transaction_id,store_id,store_name,transaction_date,customer_id,product_code,product_name,category,quantity,unit_price_inr,total_amount_inr,discount_pct,payment_method,cashier_id,region,city
+TXN10001,NM001,FreshMart Andheri,15-01-2024,C1001,ELEC-0091,Samsung 32in LED TV,Electronics,1,24999,24999,0,Credit Card,CASH001,West,Mumbai
+TXN10002,NM002,QuickShop Lajpat,15-01-2024,C1002,FMCG-0042,Maggi 12-Pack Noodles,FMCG,3,180,540,5,UPI,CASH002,North,Delhi
+TXN10003,NM003,GreenBasket Koramangala,15-01-2024,,GROC-0011,Tata Salt 1kg,Grocery,5,22,110,0,Cash,,South,Bangalore
+TXN10004,NM004,CityMart Nungambakkam,15-01-2024,C1004,APRL-0033,Levi's 511 Slim Jeans,Apparel,2,3499,6998,0,Debit Card,CASH004,South,Chennai
+TXN10005,NM005,HomePlex Banjara Hills,15-01-2024,C1005,HOME-0071,Prestige Pressure Cooker 5L,Home & Kitchen,1,2499,2499,10,Credit Card,CASH005,South,Hyderabad
+TXN10006,NM006,MegaMart Wakad,15-01-2024,C1006,ELEC-0055,boAt Rockerz 450 Headphones,Electronics,1,1799,1799,0,UPI,CASH006,West,Pune
+TXN10007,NM007,PrimeMart New Town,15-01-2024,C1007,FMCG-0099,Dove Shampoo 340ml,FMCG,4,265,1060,5,Cash,CASH007,East,Kolkata
+TXN10008,NM008,ValueStop CG Road,15-01-2024,C1008,GROC-0022,Fortune Sunflower Oil 5L,Grocery,2,750,1500,0,UPI,CASH008,West,Ahmedabad
+TXN10009,NM009,FreshMart Ameerpet,15-01-2024,C1009,APRL-0077,Van Heusen Formal Shirt,Apparel,1,1599,1599,0,Debit Card,CASH009,South,Hyderabad
+TXN10010,NM010,SmartShop Shyambazar,15-01-2024,C1010,HOME-0044,Milton Thermosteel Flask 1L,Home & Kitchen,3,699,2097,0,Credit Card,CASH010,east,Kolkata
+TXN10011,NM001,FreshMart Andheri,15-01-2024,C1011,FMCG-0031,Colgate MaxFresh 300g,FMCG,2,150,300,0,UPI,CASH001,West,Mumbai
+TXN10012,NM002,QuickShop Lajpat,15-01-2024,C1012,ELEC-0102,HP Wireless Mouse,Electronics,2,999,1998,0,Cash,CASH002,North,Delhi
+TXN10013,NM003,GreenBasket Koramangala,15-01-2024,C1013,GROC-0055,Basmati Rice 5kg,Grocery,3,450,1350,5,UPI,,South,Bangalore
+TXN10014,NM004,CityMart Nungambakkam,15-01-2024,,HOME-0088,Butterfly Mixer Grinder 750W,Home & Kitchen,1,3299,3299,0,Credit Card,CASH004,South,Chennai
+TXN10015,NM005,HomePlex Banjara Hills,15-01-2024,C1015,APRL-0015,Arrow Cotton Polo T-Shirt,Apparel,3,899,2697,0,Debit Card,CASH005,south,Hyderabad
+TXN10016,NM006,MegaMart Wakad,15-01-2024,C1016,FMCG-0063,Lifebuoy Soap 4-Pack,FMCG,5,120,600,10,Cash,CASH006,West,Pune
+TXN10017,NM007,PrimeMart New Town,15-01-2024,C1017,GROC-0033,Amul Butter 500g,Grocery,4,275,1100,0,UPI,CASH007,East,Kolkata
+TXN10018,NM008,ValueStop CG Road,15-01-2024,C1018,ELEC-0077,Syska LED Bulb 9W 6-Pack,Electronics,2,349,698,0,Credit Card,CASH008,West,Ahmedabad
+TXN10019,NM009,  FreshMart Ameerpet  ,15-01-2024,C1019,HOME-0061,Pigeon Non-Stick Tawa 30cm,Home & Kitchen,1,799,799,0,Debit Card,CASH009,South,Hyderabad
+TXN10020,NM010,SmartShop Shyambazar,15-01-2024,C1020,APRL-0051,Woodland Casual Shoes,Apparel,1,3999,3999,0,UPI,CASH010,East,Kolkata
+TXN10021,NM001,FreshMart Andheri,15-01-2024,C1021,GROC-0044,Tata Tea Premium 500g,Grocery,6,220,1320,0,Cash,CASH001,West,Mumbai
+TXN10022,NM002,QuickShop Lajpat,15-01-2024,C1022,FMCG-0088,Dettol Hand Wash 500ml,FMCG,3,195,585,0,UPI,CASH002,North,Delhi
+TXN10023,NM003,GreenBasket Koramangala,15-01-2024,C1023,ELEC-0033,Realme Buds Wireless 2,Electronics,1,1499,1499,0,Credit Card,CASH003,South,Bangalore
+TXN10024,NM004,CityMart Nungambakkam,15-01-2024,C1024,HOME-0033,Cello Opalware 35pc Dinner Set,Home & Kitchen,1,1999,1999,15,Debit Card,CASH004,South,Chennai
+TXN10025,NM005,HomePlex Banjara Hills,15-01-2024,C1025,GROC-0066,MDH Chaat Masala 500g,Grocery,4,175,700,0,UPI,CASH005,South,Hyderabad
+TXN10001,NM001,FreshMart Andheri,15-01-2024,C1001,ELEC-0091,Samsung 32in LED TV,Electronics,1,24999,24999,0,Credit Card,CASH001,West,Mumbai
+TXN10026,NM006,MegaMart Wakad,15-01-2024,C1026,APRL-0044,Peter England Chinos,Apparel,2,1799,3598,0,Cash,CASH006,West,Pune
+TXN10027,NM007,PrimeMart New Town,15-01-2024,C1027,FMCG-0055,Surf Excel Matic 3kg,FMCG,1,599,599,0,UPI,CASH007,East,Kolkata
+TXN10028,NM008,ValueStop CG Road,15-01-2024,C1028,ELEC-0044,MI Power Bank 20000mAh,Electronics,2,1299,2598,5,Credit Card,CASH008,West,Ahmedabad
+TXN10029,NM001,FreshMart Andheri,15-01-2024,C1001,ELEC-0091,Samsung 32in LED TV,Electronics,-1,24999,-24999,0,Credit Card,CASH001,West,Mumbai
+TXN10030,NM009,FreshMart Ameerpet,15-01-2024,C1030,GROC-0077,Aashirvaad Atta 10kg,Grocery,2,430,860,0,Cash,CASH009,South,Hyderabad
+TXN10031,NM010,SmartShop Shyambazar,15-01-2024,C1031,HOME-0055,Havells Iron 1000W,Home & Kitchen,1,1299,1299,0,UPI,CASH010,East,Kolkata
+TXN10032,NM001,FreshMart Andheri,15-01-2024,C1032,FMCG-0011,Himalaya Face Wash 150ml,FMCG,3,175,525,0,Debit Card,CASH001,West,Mumbai
+TXN10033,NM002,QuickShop Lajpat,15-01-2024,C1033,APRL-0088,Jockey Brief 3-Pack,Apparel,2,599,1198,0,Cash,CASH002,North,Delhi
+TXN10034,NM003,GreenBasket Koramangala,15-01-2024,C1034,GROC-0088,Nestle KitKat 12-Pack,Grocery,3,360,1080,0,UPI,CASH003,South,Bangalore
+TXN10035,NM004,CityMart Nungambakkam,15-01-2024,C1035,ELEC-0066,Canon PIXMA Ink Cartridges,Electronics,2,1999,3800,10,Credit Card,CASH004,South,Chennai
+TXN10036,NM005,HomePlex Banjara Hills,15-01-2024,C1036,HOME-0099,Eureka Forbes Vacuum Cleaner,Home & Kitchen,1,6499,6499,0,Debit Card,CASH005,South,Hyderabad
+TXN10037,NM006,MegaMart Wakad,15-01-2024,C1037,FMCG-0077,Pantene Conditioner 340ml,FMCG,4,299,1196,0,UPI,CASH006,West,Pune
+TXN10038,NM007,PrimeMart New Town,15-01-2024,C1038,GROC-0099,Mother Dairy Curd 1kg,Grocery,5,72,360,0,Cash,CASH007,East,Kolkata
+TXN10039,NM008,ValueStop CG Road,15-01-2024,C1039,APRL-0066,Bata Sneakers,Apparel,1,2499,2499,0,Credit Card,CASH008,West,Ahmedabad
+TXN10040,NM009,FreshMart Ameerpet,15-01-2024,C1040,ELEC-0088,Philips Trimmer BT3205,Electronics,1,1495,1495,0,UPI,CASH009,South,Hyderabad
+TXN10041,NM010,SmartShop Shyambazar,15-01-2024,C1041,HOME-0022,Cello Monarch Water Bottle 1L,Home & Kitchen,4,299,1196,0,Debit Card,CASH010,East,Kolkata
+TXN10042,NM001,FreshMart Andheri,15-01-2024,C1042,FMCG-00éé,Ariel Washing Powder 3kg,FMCG,1,549,549,0,Cash,CASH001,West,Mumbai
+TXN10043,NM002,QuickShop Lajpat,15-01-2024,C1043,GROC-0110,Haldiram Aloo Bhujia 400g,Grocery,3,199,597,0,UPI,CASH002,North,Delhi
+TXN10044,NM003,GreenBasket Koramangala,15-01-2024,C1044,ELEC-0099,iBall Slide Tablet 10.1in,Electronics,1,7999,7999,0,Credit Card,CASH003,South,Bangalore
+TXN10045,NM004,CityMart Nungambakkam,15-01-2024,C1045,HOME-0011,Hawkins Futura Non-Stick Pan,Home & Kitchen,2,1249,2498,0,Debit Card,CASH004,South,Chennai
+TXN10046,NM005,HomePlex Banjara Hills,15-01-2024,C1046,APRL-0099,Fabindia Kurta Cotton,Apparel,2,1699,3398,0,UPI,CASH005,South,Hyderabad
+TXN10047,NM006,MegaMart Wakad,15-01-2024,C1047,FMCG-0022,Lipton Green Tea 25 bags,FMCG,4,130,520,5,Cash,CASH006,West,Pune
+TXN10048,NM007,PrimeMart New Town,15-01-2024,C1048,GROC-0121,Amul Milk 1L Tetra Pack,Grocery,6,68,408,0,UPI,CASH007,East,Kolkata
+TXN10049,NM008,ValueStop CG Road,15-01-2024,C1049,ELEC-0111,Noise Colorfit Pro 3 Smartwatch,Electronics,1,3499,3499,0,Credit Card,CASH008,West,Ahmedabad
+TXN10007,NM007,PrimeMart New Town,15-01-2024,C1007,FMCG-0099,Dove Shampoo 340ml,FMCG,4,265,1060,5,Cash,CASH007,East,Kolkata
+TXN10050,NM009,FreshMart Ameerpet,15-01-2024,C1050,HOME-0077,Godrej Refrigerator 190L,Home & Kitchen,1,14999,14999,0,Credit Card,CASH009,South,Hyderabad

@@ -1,0 +1,20 @@
+retailco_pos_profile:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: "{{ env_var('GCP_PROJECT_ID', 'dhanush-week6-2026') }}"
+      dataset: retailco_dbt_dev
+      threads: 4
+      timeout_seconds: 300
+      location: asia-south1
+    prod:
+      type: bigquery
+      method: service-account
+      keyfile: "{{ env_var('GCP_KEYFILE_PATH', '/secrets/gcp_sa_key.json') }}"
+      project: "{{ env_var('GCP_PROJECT_ID', 'dhanush-week6-2026') }}"
+      dataset: retailco_analytical_marts
+      threads: 8
+      timeout_seconds: 600
+      location: asia-south1

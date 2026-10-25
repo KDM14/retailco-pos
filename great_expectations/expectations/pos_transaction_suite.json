@@ -1,0 +1,117 @@
+{
+  "data_asset_type": null,
+  "expectation_suite_name": "pos_transaction_suite",
+  "expectations": [
+    {
+      "expectation_type": "expect_table_column_count_to_equal",
+      "kwargs": {
+        "value": 16
+      },
+      "meta": {
+        "severity": "CRITICAL",
+        "description": "Verifies table contains all 16 required contract columns."
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "transaction_id"
+      },
+      "meta": {
+        "severity": "CRITICAL",
+        "description": "Primary key identity cannot be null."
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "store_id"
+      },
+      "meta": {
+        "severity": "CRITICAL",
+        "description": "Store ID is required for multi-store attribution."
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "product_code"
+      },
+      "meta": {
+        "severity": "CRITICAL",
+        "description": "Product code is required for SKU reconciliation."
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "customer_id"
+      },
+      "meta": {
+        "severity": "HIGH",
+        "description": "Customer identifier for lifetime value tracking."
+      }
+    },
+    {
+      "expectation_type": "expect_compound_columns_to_be_unique",
+      "kwargs": {
+        "column_list": ["transaction_id", "product_code"]
+      },
+      "meta": {
+        "severity": "CRITICAL",
+        "description": "Natural grain key (transaction_id + product_code) must be strictly unique."
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_between",
+      "kwargs": {
+        "column": "quantity",
+        "min_value": 1,
+        "max_value": 10000
+      },
+      "meta": {
+        "severity": "CRITICAL",
+        "description": "Transaction quantity must be positive retail volume."
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_between",
+      "kwargs": {
+        "column": "unit_price_inr",
+        "min_value": 0.0,
+        "max_value": 1000000.0
+      },
+      "meta": {
+        "severity": "CRITICAL",
+        "description": "Unit price cannot be negative."
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_between",
+      "kwargs": {
+        "column": "discount_pct",
+        "min_value": 0.0,
+        "max_value": 100.0
+      },
+      "meta": {
+        "severity": "CRITICAL",
+        "description": "Promotional discount percentage must be within [0, 100] percent."
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_in_set",
+      "kwargs": {
+        "column": "payment_method",
+        "value_set": ["Cash", "UPI", "Credit Card", "Debit Card", "Net Banking", "Other"]
+      },
+      "meta": {
+        "severity": "MEDIUM",
+        "description": "Validates authorized POS payment gateway rails."
+      }
+    }
+  ],
+  "ge_cloud_id": null,
+  "meta": {
+    "great_expectations_version": "0.18.0"
+  }
+}

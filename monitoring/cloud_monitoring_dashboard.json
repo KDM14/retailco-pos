@@ -1,0 +1,90 @@
+{
+  "displayName": "RetailCo POS Data Platform - Operational & FinOps Health",
+  "mosaicLayout": {
+    "columns": 12,
+    "tiles": [
+      {
+        "title": "BigQuery Billed Bytes Scanned (FinOps)",
+        "widget": {
+          "xyChart": {
+            "dataSets": [
+              {
+                "timeSeriesQuery": {
+                  "timeSeriesFilter": {
+                    "filter": "metric.type=\"bigquery.googleapis.com/query/scanned_bytes\"",
+                    "aggregation": {
+                      "perSeriesAligner": "ALIGN_RATE",
+                      "crossSeriesReducer": "REDUCE_SUM"
+                    }
+                  }
+                },
+                "plotType": "LINE"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "Dataproc Serverless Batch Duration & Slot Usage",
+        "widget": {
+          "xyChart": {
+            "dataSets": [
+              {
+                "timeSeriesQuery": {
+                  "timeSeriesFilter": {
+                    "filter": "metric.type=\"dataproc.googleapis.com/batch/active_executors\"",
+                    "aggregation": {
+                      "perSeriesAligner": "ALIGN_MEAN"
+                    }
+                  }
+                },
+                "plotType": "LINE"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "Pub/Sub Streaming Ingestion Rate (Msgs/Sec)",
+        "widget": {
+          "xyChart": {
+            "dataSets": [
+              {
+                "timeSeriesQuery": {
+                  "timeSeriesFilter": {
+                    "filter": "metric.type=\"pubsub.googleapis.com/topic/send_message_operation_count\"",
+                    "aggregation": {
+                      "perSeriesAligner": "ALIGN_RATE"
+                    }
+                  }
+                },
+                "plotType": "LINE"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "Data Quality Gate Failure & Quarantine Events",
+        "widget": {
+          "xyChart": {
+            "dataSets": [
+              {
+                "timeSeriesQuery": {
+                  "timeSeriesFilter": {
+                    "filter": "metric.type=\"logging.googleapis.com/user/dq_gate_failure_count\"",
+                    "aggregation": {
+                      "perSeriesAligner": "ALIGN_DELTA",
+                      "crossSeriesReducer": "REDUCE_COUNT"
+                    }
+                  }
+                },
+                "plotType": "STACKED_BAR"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
