@@ -226,8 +226,8 @@ retailco-pos-data-platform/
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone git@github.com:KDM14/retailco-pos-data-platform.git
-cd retailco-pos-data-platform
+git clone git@github.com:KDM14/retailco-pos.git
+cd retailco-pos
 
 # Install dependencies
 pip install -r requirements.txt
